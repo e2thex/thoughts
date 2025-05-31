@@ -6,7 +6,8 @@
   "scripts": {
     "start": "docsify serve",
     "dev": "docsify serve",
-    "build": "docsify generate dist"
+    "build": "docsify generate dist",
+    "sidebar": "node generate-sidebar.js"
   },
   "keywords": [],
   "author": "",
