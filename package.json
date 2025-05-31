@@ -1,0 +1,14 @@
+{
+  "name": "thoughts",
+  "version": "1.0.0",
+  "description": "Thoughts of Erik Summerfield",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve",
+    "dev": "docsify serve",
+    "build": "docsify generate dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
