@@ -146,4 +146,8 @@ Let's inspect this random vs determined paradigm a bit. Distinguishing between d
 
 
 
-## On Right and Wrong
+## On Ethics
+
+### Non Social Ethics Schema
+
+### Social Hijacking of Ethics Schema
