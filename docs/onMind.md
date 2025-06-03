@@ -6,7 +6,7 @@ This essay is broken up into a few section, the first on On Schema is foundation
 
 A **schema** is best defined as a **trained abstract probabilistic simulator**.
 
-It is a **simulator** in that it can generate multiple possible paths or outcomes - not just a single prediction, but a dynamic engine capable of exploring different scenarios. It is **abstract** in that it strips away unnecessary details, retaining only the essential features needed for its purpose. It is **probabilistic** in that it uses heuristics to fill in the gaps, estimating likelihoods rather than certainties. And it is **trained** through experience and feedback, becoming more efficient at generating useful simulations over time.
+It is a **simulator** in that it can generate multiple possible paths or outcomes not just a single prediction, but a dynamic engine capable of exploring different scenarios. It is **abstract** in that it strips away unnecessary details, retaining only the essential features needed for its purpose. It is **probabilistic** in that it uses heuristics to fill in the gaps, estimating likelihoods rather than certainties. And it is **trained** through experience and feedback, becoming more efficient at generating useful simulations over time.
 
 Schemas dramatically reduce the brain's computational and memory requirements by eliminating the need to process all sensory inputs in detail. Instead of evaluating every piece of information, schemas allow the brain to quickly react based on simplified patterns and minimal inputs. They act as efficient mental shortcuts, letting us respond rapidly without having to analyze the full complexity of a situation.
 
@@ -113,36 +113,72 @@ This team synchronization manifests in several measurable ways:
 
 The key insight here is that these phenomena aren't just about behavioral coordination - they represent a genuine synchronization of Reality Schemas. When team members' schemas become aligned through intensive training and shared experience, their individual consciousness boundaries become more fluid, allowing for a form of shared consciousness that enables extraordinary levels of coordination and performance.
 
-## On Free will
-### Free Will in a Determinist Worldview
+## On Free Will
 
-One strong challenge to Physicalism is the fact that people experience free will. Any Physicalist needs to have a way to explain this feeling of free will. I hope to show that this feeling stems from a lack of perfect information, which leads to our brain doing a heuristic analysis of decisions and what the reasons for those decisions would have been, with three outcomes:
+What can this understanding of schemas tell us about the feeling of free will? This feeling that with some of our actions, we appear to be making a choice; not that the choice is random or thrust upon us.
 
-1. A clear winner for what decision should have been made. This is when we feel like we did not have a choice but had to act in this way.  
-2. A clear winner for randomness: this is when we feel like we did not choose at all  
-3. Or multiple options were possible for different reasons, and we experienced free will in our decision.
+### Exploring Non-Free Will
 
----
+There are two categories of actions that don't feel like free will: actions without choice, and choice without will.
 
-### Either Determined or Random
+#### Actions Without Choice
 
-Let's start with a tautology, that Physicalism drives us to, because all events observed are either Determined or Random.
+There are many situations where we feel like we have no choice but to act in a certain way:
 
-**PRINCIPLE: Events are Determined or Random**  
-Any event must either be determined by another event(s) or must be random.
+- When you touch something hot, you pull your hand away before you even consciously process it. This doesn't feel like a choice - it's an automatic response hardwired into our nervous system.
 
-Each of our choices is an event, so we have a Choice version of this principle:
+- When someone you love is in danger, you may act to protect them without any sense of choosing. The emotional drive is so strong that alternatives don't even enter consciousness.
 
-**PRINCIPLE: Choices are Determined or Random**  
-Any choice must either be determined by another event(s) or must be random.
+- Sometimes social or moral imperatives feel so strong that we experience them as forces rather than choices. If you see someone drop their wallet, you might feel compelled to return it without experiencing this as a choice.
 
-While my intuition does not validate the exhaustiveness of this principle, it does validate that some choices are determined and some are random. When asked where we should go for dinner, I often say I don't care and will respond randomly. On the flip sign, when my child falls and cries, I rush to them and do not see anything else I could have done. However, my intuition pushed me to see other choices that do not match these. Let me push deeper.
+#### Choice Without Will
 
----
+Similarly, there are times when our actions feel more random than chosen:
 
-### Random Indistinguishable from Determined
+- When choosing between identical options (like which identical sock to put on first), we often act without any real decision-making process.
 
-Let's inspect this random vs determined paradigm a bit. Distinguishing between determined an
+- After making many decisions, we sometimes reach a point where we stop weighing options and just pick something arbitrarily.
+
+These examples highlight situations where our experience differs from the feeling of free will - either because we feel compelled by forces beyond our control or because our actions seem to lack conscious direction altogether.
+
+### The Decision Schema
+
+Like everything our brain does, we can expect that it uses a schema when evaluating why we have acted the way we do. As this decision simulator is abstracted, we do not have perfect information on why we took or will take an action. Instead, we are only left with a probabilistic distribution of reasons for our actions.
+
+### Shape of the Distributions
+
+The shape of this heuristic distribution is what gives rise to our feeling of free will.
+
+#### The Single Choice
+
+In a distribution where one possibility of action dominates all others, we do not feel like we had a choice - there was only one reasonable action. Let's examine our earlier examples through this lens of probability distributions:
+
+- **Hot surface reaction**: The probability distribution here has an overwhelming spike for "pull hand away" with negligible probabilities for all other actions. Our brain's decision schema recognizes this as a "no choice" situation.
+
+- **Protecting loved ones**: Similar to above, the distribution shows an extreme peak for "protect" with minimal probability mass elsewhere. The emotional and instinctual drivers create such a dominant option that alternatives barely register.
+
+- **Returning a wallet**: Here the distribution might show a very high peak for "return it" due to moral/social conditioning, with small probabilities for "keep it" or "ignore it". While not as extreme as the reflexive examples, it's still lopsided enough that we experience it as compulsion rather than choice.
+
+#### Too Many Equal Options
+
+On the other extreme, if the distribution is flat with lots of options that have the same probability, we also do not feel free will - we instead feel a lack of will. Let's examine our earlier examples:
+
+- **Identical socks**: The probability distribution here is perfectly flat across the options - each sock has exactly equal probability of being chosen. Our decision schema recognizes this uniform distribution as "random" rather than willed choice.
+
+- **Decision fatigue**: When mentally exhausted, our probability distributions tend to flatten out across options. Rather than sharp peaks representing clear preferences, we see more uniform distributions that lead to experiences of random rather than willed choices.
+
+#### The Shape of Free Will
+
+But what if the distribution is not flat or spiked? What if there are multiple option that are reasonable but with vering degrees of probalbities? This is the shape of Free will
+
+### The Power of Introspection
+
+One power we have is the ability to introspect - to consciously examine our decisions and thought processes. When we direct our attention to a decision, we often change the amount of information feeding into our decision schema. Interestingly, this examination can significantly alter the shape of our probability distribution.
+
+For example:
+- Through introspection, we might realize we always put on the left sock first simply because we're right-handed and naturally reach to the left. This insight transforms what seemed like a random choice into a pattern driven by physical constraints.
+
+- When we deeply examine the moral choice of returning a found wallet, we might consider alternative uses for the money or rationalize keeping a "finder's fee". This introspection can transform what initially felt like a clear moral imperative into a more complex decision with multiple weighted options - shifting from a spike-shaped distribution to one more characteristic of free will.
 
 
 
