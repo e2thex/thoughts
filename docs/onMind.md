@@ -119,7 +119,7 @@ What can this understanding of schemas tell us about the feeling of free will? T
 
 ### Exploring Non-Free Will
 
-There are two categories of actions that don't feel like free will: actions without choice, and choice without will.
+There are two categories of actions that don't feel like free will: actions without choice, and actions without will.
 
 #### Actions Without Choice
 
@@ -131,7 +131,7 @@ There are many situations where we feel like we have no choice but to act in a c
 
 - Sometimes social or moral imperatives feel so strong that we experience them as forces rather than choices. If you see someone drop their wallet, you might feel compelled to return it without experiencing this as a choice.
 
-#### Choice Without Will
+#### Actions Without Will
 
 Similarly, there are times when our actions feel more random than chosen:
 
