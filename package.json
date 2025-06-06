@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "docsify serve",
-    "dev": "docsify serve",
+    "dev": "docsify serve --port 3274",
     "build": "docsify generate dist",
     "sidebar": "node generate-sidebar.js"
   },

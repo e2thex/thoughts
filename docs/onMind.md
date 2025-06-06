@@ -113,6 +113,12 @@ This team synchronization manifests in several measurable ways:
 
 The key insight here is that these phenomena aren't just about behavioral coordination - they represent a genuine synchronization of Reality Schemas. When team members' schemas become aligned through intensive training and shared experience, their individual consciousness boundaries become more fluid, allowing for a form of shared consciousness that enables extraordinary levels of coordination and performance.
 
+### Conclusion
+By understanding how schemas like the Reality Schema, Decision Schema, and others work together, we gain valuable insights into how our mind operates and what it produces. These mental frameworks help explain everything from our basic sensory experiences to complex phenomena like consciousness and decision-making. Through studying these schemas, we can better understand not just what our mind does, but how it creates our lived experience of reality.
+
+
+
+
 ## On Free Will
 
 What can this understanding of schemas tell us about the feeling of free will? This feeling that with some of our actions, we appear to be making a choice; not that the choice is random or thrust upon us.
@@ -169,7 +175,7 @@ On the other extreme, if the distribution is flat with lots of options that have
 
 #### The Shape of Free Will
 
-But what if the distribution is not flat or spiked? What if there are multiple option that are reasonable but with vering degrees of probalbities? This is the shape of Free will
+But what if the distribution is neither flat nor spiked? What if there are multiple options that are reasonable but with varying degrees of probabilities? This is the shape of free will.
 
 ### The Power of Introspection
 
@@ -180,10 +186,19 @@ For example:
 
 - When we deeply examine the moral choice of returning a found wallet, we might consider alternative uses for the money or rationalize keeping a "finder's fee". This introspection can transform what initially felt like a clear moral imperative into a more complex decision with multiple weighted options - shifting from a spike-shaped distribution to one more characteristic of free will.
 
+### Conclusion 
+
+The experience of free will appears to emerge from the interplay between our decision-making schemas and the probability distributions they generate. When we feel we have free will, it's often because we're encountering a decision space with multiple viable options that have different but comparable probabilities. This creates a sweet spot between complete randomness and pure determinism.
+
+This model helps explain why the debate over free will has persisted for so long - our experience of it is neither purely deterministic nor purely random, but rather emerges from complex probability distributions that can shift based on context, attention, and introspection. 
 
 
 ## On Ethics
 
+We can approch ethics with this same schema framework.  I think that we will find ethics in our decision schema
+
 ### Non Social Ethics Schema
+
+First I want to explore what ethics looks like in a non social existiance. 
 
 ### Social Hijacking of Ethics Schema
