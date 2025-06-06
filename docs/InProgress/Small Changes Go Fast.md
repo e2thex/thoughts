@@ -3,7 +3,7 @@
 There is extensive research and real-world evidence showing that small, incremental changes lead to faster and more reliable progress. This principle is indeed central to Agile methodologies, and has been validated across many contexts:
 
 - The Lean Startup methodology emphasizes small, rapid experiments ([Eric Ries' Lean Startup](https://theleanstartup.com/principles))
-- Amazon's "two-pizza teams" show how small, autonomous units move faster ([AWS Blog on Two-Pizza Teams](https://aws.amazon.com/blogs/enterprise-strategy/two-pizza-teams/))
+- Amazon's "two-pizza teams" show how small, autonomous units move faster ([AWS Documentation on Two-Pizza Teams](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/two-pizza-teams.html))
 - Google's research on high-performing teams found that small, focused changes were key to improvement ([Google re:Work](https://rework.withgoogle.com/))
 - The DevOps Handbook details how small batch sizes accelerate delivery ([DevOps Handbook](https://itrevolution.com/product/the-devops-handbook/))
 
