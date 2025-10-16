@@ -1,2 +1,2 @@
 * [Home](/)
-* [On Mind](onMind.md)
+* [On Mind](The%20Schematic%20Approach.md)

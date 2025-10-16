@@ -1,12 +1,8 @@
-# On Mind
-
-This essay is broken up into a few section, the first on On Schema is foundational to the others as it lays the framework on which I explore consousenes, free will, and ethics. 
-
-## On Schema
+## The Foundation 
 
 A **schema** is best defined as a **trained abstract probabilistic simulator**.
 
-It is a **simulator** in that it can generate multiple possible paths or outcomes not just a single prediction, but a dynamic engine capable of exploring different scenarios. It is **abstract** in that it strips away unnecessary details, retaining only the essential features needed for its purpose. It is **probabilistic** in that it uses heuristics to fill in the gaps, estimating likelihoods rather than certainties. And it is **trained** through experience and feedback, becoming more efficient at generating useful simulations over time.
+It is a **simulator**, in that it can generate multiple possible paths or outcomes, not just a single prediction, but a dynamic engine capable of exploring different scenarios. It is **abstract** in that it strips away unnecessary details, constructing representations of the essential features needed for its purpose. It is **probabilistic** in that it uses heuristics to fill in the gaps, estimating likelihoods rather than certainties. And it is **trained** through experience and feedback, becoming more efficient at generating useful simulations over time.
 
 Schemas dramatically reduce the brain's computational and memory requirements by eliminating the need to process all sensory inputs in detail. Instead of evaluating every piece of information, schemas allow the brain to quickly react based on simplified patterns and minimal inputs. They act as efficient mental shortcuts, letting us respond rapidly without having to analyze the full complexity of a situation.
 
@@ -32,7 +28,7 @@ The **attention schema** is a model of how attention is allocated, both one's ow
 - **Abstract** across sensory modalities  
 - **Probabilistic** in determining what is likely to be noticed
 
-**Neuroscience example**: Michael Graziano's research suggests that the brain maintains an internal model of attention, which helps regulate conscious access and social prediction. This model allows us to not only track our focus, but infer what others might be focusing on as well.
+**Neuroscience example**: Michael Graziano's research suggests that the brain maintains an internal model of attention, which helps regulate conscious access and social prediction. This model allows us to not only track our focus but also infer what others might be focusing on.
 
 #### Theory of Mind Schema
 
@@ -62,9 +58,9 @@ Training can **sharpen the predictive accuracy** of a schema and also **speciali
 
 ### The Reality Schema: The Amalgamation of Schemas
 
-While we describe these schemas body, attention, theory of mind, and others—as distinct entities, the boundaries between them are far from clear. When shaking someone's hand, for instance, it's impossible to cleanly separate where your body schema ends and your theory of mind schema begins. These categories are useful tools for analyzing brain function, but in reality, they are deeply interconnected facets of a single, comprehensive simulator: the **reality schema**.
+While we describe these schemas, body, attention, theory of mind, and others—as distinct entities, the boundaries between them are far from clear. When shaking someone's hand, for instance, it's impossible to cleanly separate where your body schema ends and your theory of mind schema begins. These categories are useful tools for analyzing brain function, but in reality, they are deeply interconnected facets of a single, comprehensive simulator: the **reality schema**.
 
-The reality schema is the brain's unified simulation engine, where all these seemingly separate schemas blend and flow into one another. It is a continuously updated probabilistic model that is not just combine of these different aspects of experience, but an integration of them.
+The reality schema is the brain's amalgamated simulation engine, where all these seemingly separate schemas blend and flow into one another. It is a continuously updated probabilistic model that is not just a combination of these different aspects of experience, but an integration of them.
 
 The reality schema is **not the world itself**. It is the internal simulation that **feels** like the world. It is how we navigate, interpret, and interact with our surroundings. It is our **personal reality**.
 
@@ -81,10 +77,21 @@ But alongside the nature of consciousness, there is another important aspect: th
 
 When we consider consciousness, we are always dealing with these two dimensions: the existence of experience itself, and the existence of a particular experiencer. To understand what consciousness truly is, and later to explore how it arises in us or how we might recreate it artificially, we need to keep both of these aspects in view.
 
-### Consciousness is a Reality
+### Consciousness as Reality
 
-I propose that consciousness is reality - specifically, it is what we experience. In humans, this manifests as the Reality Schema.
+The concept that we call consciousness is reality, or more specifically, each reality is a consciousness.   While we speak of a Reality (reality prime), each of us does not directly experience it; instead, we each experience our individual reality schema.
 
+One way to illuminate that consciousness is our reality schema is to review places where people have described the dissolution of self, or shared consciousness.  Let us look at 5 examples:
+1.  **Identical twins** who are raised together and live similar lives.
+2. **Teams** that train intensely together on a task.
+3. **Psychedelic drug use**
+4. **Prolonged Ecstatic Movement** 
+5. **Past Self**
+
+#### Identical Twins
+ Consider identical twins who are raised together and live similar lives. They often describe feeling as if they share a brain or struggle to feel distinct from each other.  Their reality schemas began with identical "instruction sets" and have been trained on nearly identical experiences throughout their lives. As a result, their schemas are highly synchronized. 
+
+#### Teams 
 We can demonstrate this by examining situations where our individual Unit of Consciousness is challenged. Consider identical twins who are raised together and live similar lives. They often describe feeling as if they share a brain or struggle to feel distinct from each other. This makes sense if we view their Realities as their Consciousness. Their Reality Schemas began with identical "instruction sets" and have been trained on nearly identical experiences throughout their lives. As a result, their schemas are highly synchronized, leading their realities - their consciousness - to be deeply aligned.
 
 This twin synchronization manifests in several scientifically documented ways:
