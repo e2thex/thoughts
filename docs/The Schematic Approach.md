@@ -212,8 +212,7 @@ This model helps explain why the debate over free will has persisted for so long
 Epistemology asks, what does it mean to know?   At the root of that question are the things that are known.  Across history, these have been called _Forms_, _Ideas_, _Concepts_, or _Representations_, all attempts to name the stable features of knowing.  In the **Schematic Approach**, we see these things as **Constructs**.
 ### A Construct
 
-A **Construct** is not a definition but a pattern of coherence within a reality.   It is a probabilistic structure that allows experiences or perceptions to be matched, compared, and organized.  
-A construct is not a fixed category (“what red is”) but a dynamic field of resemblance (“what is red-like”).   In this sense, constructs are operational patterns, not propositional truths, they are the ways a reality holds its world together through degrees of similarity.
+A **Construct** is not a definition but a pattern of coherence within a reality.   It is a probabilistic structure that allows experiences or perceptions to be matched, compared, and organized.  A construct is not a fixed category (“what red is”) but a dynamic field of resemblance (“what is red-like”).   In this sense, constructs are operational patterns, not propositional truths, they are the ways a reality holds its world together through degrees of similarity.
 #### An Example: The Construct of “Red”
 
 To see how a construct works, consider the experience of color, specifically, the construct _red_.  If I show a group of people this box:

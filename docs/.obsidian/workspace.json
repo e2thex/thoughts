@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 434.5
   },
   "right": {
     "id": "ba5bcad32680af2a",
@@ -196,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65bfd941b1fce43c",
+  "active": "ec6acc877b23918b",
   "lastOpenFiles": [
     "Gates of Technology.md",
     "The Schematic Approach.md"
