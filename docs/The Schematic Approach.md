@@ -217,7 +217,7 @@ A construct is not a fixed category (“what red is”) but a dynamic field of r
 #### An Example: The Construct of “Red”
 
 To see how a construct works, consider the experience of color, specifically, the construct _red_.  If I show a group of people this box:
-<div style="background-color:#E75480 ; color:#E75480; border: 2px solid black; padding: 10px; margin: 10px auto; border-radius: 5px;"> This is a pink box. </div>
+<div style="background-color:#E75480 ; color:#E75480; border: 2px solid black; padding: 10px; margin: 10px auto;width:100px; border-radius: 5px;"> This is a pink box. </div>
  and ask "is this red?", the group will likely be divide.  If I ask instead, "is this red or green?", nearly everyone will choose red.  And if I ask, "is this red or pink?", most will choose pink.  
 The boundaries of the answer shift depending on the comparison.
 
