@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gates of Technology.md",
+                "file": "The Schematic Approach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gates of Technology"
+              "title": "The Schematic Approach"
             }
           }
         ],
@@ -165,27 +165,39 @@
               "icon": "lucide-list",
               "title": "Outline of Gates of Technology"
             }
+          },
+          {
+            "id": "65bfd941b1fce43c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ec6acc877b23918b",
   "lastOpenFiles": [
-    "The Schematic Approach.md",
-    "Gates of Technology.md"
+    "Gates of Technology.md",
+    "The Schematic Approach.md"
   ]
 }

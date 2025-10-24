@@ -120,6 +120,12 @@ This team synchronization manifests in several measurable ways:
 
 The key insight here is that these phenomena aren't just about behavioral coordination - they represent a genuine synchronization of Reality Schemas. When team members' schemas become aligned through intensive training and shared experience, their individual consciousness boundaries become more fluid, allowing for a form of shared consciousness that enables extraordinary levels of coordination and performance.
 
+### Thoughts on Reality Nought (R$_0$)
+
+Some key differences of R$_0$ vs our realities have some interesting implications.
+1. R$_0$ is not abstract, this means it is all-seeing, 
+2. R$_0$ is not probabilistic , which means it is all-knowing.
+
 ### Conclusion
 By understanding how schemas like the Reality Schema, Decision Schema, and others work together, we gain valuable insights into how our mind operates and what it produces. These mental frameworks help explain everything from our basic sensory experiences to complex phenomena like consciousness and decision-making. Through studying these schemas, we can better understand not just what our mind does, but how it creates our lived experience of reality.
 
