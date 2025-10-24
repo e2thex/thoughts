@@ -79,7 +79,7 @@ When we consider consciousness, we are always dealing with these two dimensions:
 
 ### Consciousness as Reality
 
-The concept that we call consciousness is reality, or more specifically, each reality is a consciousness.   While we speak of a Reality (reality prime), each of us does not directly experience it; instead, we each experience our individual reality schema.
+The concept that we call consciousness is reality, or more specifically, each reality is a consciousness.   While we speak of a Reality (reality nought or R$_0$), each of us does not directly experience it; instead, we each experience our individual reality schema.
 
 One way to illuminate that consciousness is our reality schema is to review places where people have described the dissolution of self, or shared consciousness.  Let us look at 5 examples:
 1.  **Identical twins** who are raised together and live similar lives.
