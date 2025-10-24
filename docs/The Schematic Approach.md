@@ -198,6 +198,8 @@ For example:
 - Through introspection, we might realize we always put on the left sock first simply because we're right-handed and naturally reach to the left. This insight transforms what seemed like a random choice into a pattern driven by physical constraints.
 
 - When we deeply examine the moral choice of returning a found wallet, we might consider alternative uses for the money or rationalize keeping a "finder's fee". This introspection can transform what initially felt like a clear moral imperative into a more complex decision with multiple weighted options - shifting from a spike-shaped distribution to one more characteristic of free will.
+### Thoughts on Reality Nought (R$_0$)
+so if R$_0$ does not have any probability, do they have free will? I think we would have to conclude everything is known. 
 
 ### Conclusion 
 
@@ -205,10 +207,37 @@ The experience of free will appears to emerge from the interplay between our dec
 
 This model helps explain why the debate over free will has persisted for so long - our experience of it is neither purely deterministic nor purely random, but rather emerges from complex probability distributions that can shift based on context, attention, and introspection. 
 
+## On Epistemology 
 
+Epistemology asks, _what does it mean to know?_   At the root of that question are the _things that are known_ — the elements that make knowledge possible.  Across history, these have been called _Forms_, _Ideas_, _Concepts_, or _Representations_, all attempts to name the stable features of knowing.  
+In the **Schematic Approach**, we see these things as **Constructs**.
+### A Construct
+
+A **Construct** is not a definition but a _pattern of coherence_ within a reality.   It is a probabilistic structure that allows experiences or perceptions to be matched, compared, and organized.  
+A construct is not a fixed category (“what red _is_”) but a dynamic field of resemblance (“what is _red-like_”).   In this sense, constructs are _operational patterns_, not propositional truths — they are the ways a reality holds its world together through degrees of similarity and fit.
+#### An Example — The Construct of “Red”
+
+To see how a construct works, consider the experience of color — specifically, the construct _red_.  If I show a group of people this box:
+<div style="background-color:#E75480 ; color:#E75480; border: 2px solid black; padding: 10px; margin: 10px auto; border-radius: 5px;"> This is a pink box. </div>
+ and ask _is this red?_, the group will likely be divide.  If I ask instead, _is this red or green?_, nearly everyone will choose _red_.  And if I ask, _is this red or pink?_, most will choose _pink_.  
+The boundaries of the answer shift depending on the comparison.
+
+What this reveals is that _red_ is not a definition but a probabilistic region of coherence.  
+Each reality has learned, through its own training and syncing, what falls inside the “red-like” pattern.  
+Recognition happens when an experience fits closely enough to that pattern — not when it satisfies a rule.
+
+A construct, then, is not a statement about the world but a way of organizing it.  
+It is how a reality compresses the continuous field of experience into usable units.  
+When we say something _is red_, what we really mean is that it sits near the center of a pattern that our reality has found stable and meaningful.  
+In this way, knowing is not binary — it is a gradient of resemblance, a matter of _fit_ rather than of _fact_.
 ## On Ethics
 
 We can approch ethics with this same schema framework.  I think that we will find ethics in our decision schema
+
+### Schematic Definition of Religion
+Of couse if we are viewing the world though a schematic approach the idea of clean definition does not make sense, but we can think of how our brain 
+
+Religion: The Ethics schema sync in a group, and the methods that update/maintain the syncing of that schema.
 
 ### Non Social Ethics Schema
 

@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gates of Technology.md",
+                "file": "The Schematic Approach.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gates of Technology"
+              "title": "Outline of The Schematic Approach"
             }
           },
           {
@@ -195,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec6acc877b23918b",
+  "active": "65bfd941b1fce43c",
   "lastOpenFiles": [
     "Gates of Technology.md",
     "The Schematic Approach.md"
