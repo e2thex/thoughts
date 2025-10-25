@@ -17,9 +17,6 @@ The **body schema** is a simulation of the body's shape, position, and capabilit
 - **Trained** through infancy and constantly refined through movement and sensory feedback  
 - **Abstract** across different body positions, lighting conditions, or tool use  
 - **Probabilistic** in its prediction of where the body should be
-
-**Neuroscience example**: The *posterior parietal cortex* integrates visual, proprioceptive, and motor signals to maintain an up-to-date body schema. In people with damage to this area, phenomena like *asomatognosia* or *phantom limbs* reveal how the brain simulates the body even in the absence of direct input.
-
 #### Attention Schema
 
 The **attention schema** is a model of how attention is allocated, both one's own and others'. This schema allows us to anticipate what will be noticed or focused on.
@@ -27,9 +24,6 @@ The **attention schema** is a model of how attention is allocated, both one's ow
 - **Trained** through social and perceptual experience  
 - **Abstract** across sensory modalities  
 - **Probabilistic** in determining what is likely to be noticed
-
-**Neuroscience example**: Michael Graziano's research suggests that the brain maintains an internal model of attention, which helps regulate conscious access and social prediction. This model allows us to not only track our focus but also infer what others might be focusing on.
-
 #### Theory of Mind Schema
 
 This schema simulates the mental states of others, including what they know, believe, want, or intend.
@@ -37,14 +31,10 @@ This schema simulates the mental states of others, including what they know, bel
 - **Trained** through interaction and communication  
 - **Abstract** across individuals and situations  
 - **Probabilistic** in its inferences about other minds
-
-**Neuroscience example**: The *temporoparietal junction* and *medial prefrontal cortex* are involved in representing others' beliefs and intentions. Developmentally, children learn to construct this schema through play, storytelling, and conflict resolution.
-
 ---
-
 ### Schema Refinement Through Training: The Athlete Example
 
-Schemas are not fixed. They are continuously trained and refined through exposure, feedback, and repetition. In training, we do not simply memorize actions. We reshape the underlying simulator.
+While a schema is fixed, new schemas are created based on the previous but trained and refined through exposure, feedback, and repetition. In training, we do not simply memorize actions. We reshape the underlying simulator.
 
 Athletes are a clear example of this refinement:
 
@@ -67,10 +57,11 @@ The reality schema is **not the world itself**. It is the internal simulation th
 
 ## On Consciousness
 ### The Nature and Unit of Consciousness
-When we speak about consciousness, we are actually speaking about two related but distinct things. 
+Before we talk about how the Schematic Approaches can help us to understand consciousness, let's talk about two related but distinct attributes of consciousness, the nature and the unit of consciousness. 
+
 
 #### The Nature of Consciousness
-The first is the nature of consciousness: the fact that experiences happen at all. We feel emotions, perceive the world around us, and have inner lives filled with thought, sensation, and awareness. This presence of experience, the sense that there is something it is like to exist, is the basic phenomenon we call consciousness.
+The first is the nature of consciousness: the fact that experiences happen at all. We feel emotions, perceive the world around us, and have inner lives filled with thought, sensation, and awareness. This presence of experience, the sense that there is something it is like to exist, is the nature of the phenomenon we call consciousness.
 
 #### The Unit of Consciousness
 But alongside the nature of consciousness, there is another important aspect: the unit of consciousness. This is the sense that experience belongs to someone or something. It is not just that experiences occur; it is that I am having an experience. There is a bounded center, a unique perspective through which the world is encountered.
@@ -79,7 +70,11 @@ When we consider consciousness, we are always dealing with these two dimensions:
 
 ### Consciousness as Reality
 
+<<<<<<< HEAD
 The concept that we call consciousness is reality, or more specifically, each reality is a consciousness.   While we speak of a Reality (reality nought or R$_0$), each of us does not directly experience it; instead, we each experience our individual reality schema.
+=======
+The concept that we call consciousness is reality, or more specifically, each reality is a consciousness.   While we speak of a Reality (reality not), each of us does not directly experience it; instead, we each experience our individual reality schema.
+>>>>>>> 12abda6 (missing stuff)
 
 One way to illuminate that consciousness is our reality schema is to review places where people have described the dissolution of self, or shared consciousness.  Let us look at 5 examples:
 1.  **Identical twins** who are raised together and live similar lives.
