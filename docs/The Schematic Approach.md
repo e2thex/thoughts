@@ -6,25 +6,26 @@ It is a **simulator**, in that it can generate multiple possible paths or outcom
 
 Schemas dramatically reduce the brain's computational and memory requirements by eliminating the need to process all sensory inputs in detail. Instead of evaluating every piece of information, schemas allow the brain to quickly react based on simplified patterns and minimal inputs. They act as efficient mental shortcuts, letting us respond rapidly without having to analyze the full complexity of a situation.
 
-### Examples of Core Schemas
+### Schemas
+#### Examples of Schemas
 
-Several core schemas are widely hypothesized in neuroscience and cognitive science. Each reflects this core definition. They are trained, abstract, probabilistic simulators built through development and refined by experience.
+Several schemas are widely hypothesized in neuroscience and cognitive science. Each reflects this definition. They are trained, abstract, probabilistic simulators built through development and refined by experience.
 
-#### Body Schema
+##### Body Schema
 
 The **body schema** is a simulation of the body's shape, position, and capabilities. It allows us to move through the world without constantly needing to monitor our limbs visually.
 
 - **Trained** through infancy and constantly refined through movement and sensory feedback  
 - **Abstract** across different body positions, lighting conditions, or tool use  
 - **Probabilistic** in its prediction of where the body should be
-#### Attention Schema
+##### Attention Schema
 
 The **attention schema** is a model of how attention is allocated, both one's own and others'. This schema allows us to anticipate what will be noticed or focused on.
 
 - **Trained** through social and perceptual experience  
 - **Abstract** across sensory modalities  
 - **Probabilistic** in determining what is likely to be noticed
-#### Theory of Mind Schema
+##### Theory of Mind Schema
 
 This schema simulates the mental states of others, including what they know, believe, want, or intend.
 
@@ -32,7 +33,7 @@ This schema simulates the mental states of others, including what they know, bel
 - **Abstract** across individuals and situations  
 - **Probabilistic** in its inferences about other minds
 ---
-### Schema Refinement Through Training: The Athlete Example
+#### Schema Developmet Through Training
 
 While a schema is fixed, new schemas are created based on the previous but trained and refined through exposure, feedback, and repetition. In training, we do not simply memorize actions. We reshape the underlying simulator.
 
@@ -46,7 +47,7 @@ Training can **sharpen the predictive accuracy** of a schema and also **speciali
 
 ---
 
-### The Reality Schema: The Amalgamation of Schemas
+### The Reality Schema
 
 While we describe these schemas, body, attention, theory of mind, and others—as distinct entities, the boundaries between them are far from clear. When shaking someone's hand, for instance, it's impossible to cleanly separate where your body schema ends and your theory of mind schema begins. These categories are useful tools for analyzing brain function, but in reality, they are deeply interconnected facets of a single, comprehensive simulator: the **reality schema**.
 
@@ -54,11 +55,28 @@ The reality schema is the brain's amalgamated simulation engine, where all these
 
 The reality schema is **not the world itself**. It is the internal simulation that **feels** like the world. It is how we navigate, interpret, and interact with our surroundings. It is our **personal reality**.
 
+### Constructs
+
+Part of the pattern of schema is that they create representations of R$_0$, these we call Constricts.
+A **Construct** is not a definition but a pattern of coherence within a reality.   It is a probabilistic structure that allows experiences or perceptions to be matched, compared, and organized.  A construct is not a fixed category (“what red is”) but a dynamic field of resemblance (“what is red-like”).   In this sense, constructs are operational patterns, not propositional truths; they are the ways a reality holds its world together through degrees of similarity.
+#### An Example: Red
+
+To see how a construct works, consider the experience of color, specifically, the construct _red_.  If I show a group of people this box:
+<div style="background-color:#E75480 ; color:#E75480; border: 2px solid black; padding: 10px; margin: 10px auto;width:100px; border-radius: 5px;"> This is a pink box. </div>
+ If I ask, "Is this red?" the group will likely be divided. If I ask instead, "Is this red or green?" nearly everyone will choose red. And if I ask, "Is this red or pink?" most will choose pink.  
+The boundaries of the answer shift depending on the comparison.
+
+What this reveals is that red does not have a definition but instead a probabilistic region of coherence.  Each reality has learned, through its own training and syncing, what falls inside the “red-like” pattern.  Recognition happens when an experience fits closely enough to that pattern, not when it satisfies a rule.
+
+A construct, then, is not a statement about the world but a way of organizing it.  It is how a reality compresses the continuous field of experience into usable units.  When we say something is red, what we really mean is that it sits near the center of a pattern that our reality has found stable and meaningful.  
+
+#### An Example: Sad
+
+Sad is another construct; it abstracts the complexity of our bodies.  This pattern is also something we can match against other people/animals.  
 
 ## On Consciousness
 ### The Nature and Unit of Consciousness
-Before we talk about how the Schematic Approaches can help us to understand consciousness, let's talk about two related but distinct attributes of consciousness, the nature and the unit of consciousness. 
-
+Before we discuss how the Schematic Approaches can help us understand consciousness, let's consider two related but distinct attributes of consciousness: its nature and its unit. 
 
 #### The Nature of Consciousness
 The first is the nature of consciousness: the fact that experiences happen at all. We feel emotions, perceive the world around us, and have inner lives filled with thought, sensation, and awareness. This presence of experience, the sense that there is something it is like to exist, is the nature of the phenomenon we call consciousness.
@@ -70,11 +88,7 @@ When we consider consciousness, we are always dealing with these two dimensions:
 
 ### Consciousness as Reality
 
-<<<<<<< HEAD
 The concept that we call consciousness is reality, or more specifically, each reality is a consciousness.   While we speak of a Reality (reality nought or R$_0$), each of us does not directly experience it; instead, we each experience our individual reality schema.
-=======
-The concept that we call consciousness is reality, or more specifically, each reality is a consciousness.   While we speak of a Reality (reality not), each of us does not directly experience it; instead, we each experience our individual reality schema.
->>>>>>> 12abda6 (missing stuff)
 
 One way to illuminate that consciousness is our reality schema is to review places where people have described the dissolution of self, or shared consciousness.  Let us look at 5 examples:
 1.  **Identical twins** who are raised together and live similar lives.
@@ -126,6 +140,15 @@ By understanding how schemas like the Reality Schema, Decision Schema, and other
 
 
 
+
+## On Epistemology 
+
+Epistemology asks, What does it mean to know?   At the root of that question are the things that are known.  Across history, these have been called _Forms_, _Ideas_, _Concepts_, or _Representations_, all attempts to name the stable features of knowing.  In the **Schematic Approach**, we see this in the **constructs** created by our brain.
+### The construct Truth
+
+How do we view truth in the Schematic Approach?  To start, truth is a construct, so what we are we are looking for is what is truth-like.  How well something reflects reality creates a good anchor.  To be clear, this is not how it reflects R$_0$, but the reality that each of us exists in. 
+
+This covers many of the ways people think about truth, from This table is green, to 
 
 ## On Free Will
 
@@ -202,23 +225,6 @@ The experience of free will appears to emerge from the interplay between our dec
 
 This model helps explain why the debate over free will has persisted for so long - our experience of it is neither purely deterministic nor purely random, but rather emerges from complex probability distributions that can shift based on context, attention, and introspection. 
 
-## On Epistemology 
-
-Epistemology asks, what does it mean to know?   At the root of that question are the things that are known.  Across history, these have been called _Forms_, _Ideas_, _Concepts_, or _Representations_, all attempts to name the stable features of knowing.  In the **Schematic Approach**, we see these things as **Constructs**.
-### A Construct
-
-A **Construct** is not a definition but a pattern of coherence within a reality.   It is a probabilistic structure that allows experiences or perceptions to be matched, compared, and organized.  A construct is not a fixed category (“what red is”) but a dynamic field of resemblance (“what is red-like”).   In this sense, constructs are operational patterns, not propositional truths, they are the ways a reality holds its world together through degrees of similarity.
-#### An Example: The Construct of “Red”
-
-To see how a construct works, consider the experience of color, specifically, the construct _red_.  If I show a group of people this box:
-<div style="background-color:#E75480 ; color:#E75480; border: 2px solid black; padding: 10px; margin: 10px auto;width:100px; border-radius: 5px;"> This is a pink box. </div>
- and ask "is this red?", the group will likely be divide.  If I ask instead, "is this red or green?", nearly everyone will choose red.  And if I ask, "is this red or pink?", most will choose pink.  
-The boundaries of the answer shift depending on the comparison.
-
-What this reveals is that red does not have a definition but instead a probabilistic region of coherence.  Each reality has learned, through its own training and syncing, what falls inside the “red-like” pattern.  Recognition happens when an experience fits closely enough to that pattern, not when it satisfies a rule.
-
-A construct, then, is not a statement about the world but a way of organizing it.  It is how a reality compresses the continuous field of experience into usable units.  When we say something is red, what we really mean is that it sits near the center of a pattern that our reality has found stable and meaningful.  
-In this way, knowing is not binary, it is a gradient of resemblance, a matter of fit rather than of fact.
 ## On Ethics
 
 We can approch ethics with this same schema framework.  I think that we will find ethics in our decision schema
