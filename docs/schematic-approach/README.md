@@ -41,10 +41,10 @@ The Schematic Approach applied to major philosophical and cognitive questions:
 
 ## Key Concepts
 
-- **$R_0$** (Reality Nought): The objective reality that exists independently of perception. Not abstract, all-seeing, all-knowing.
-- **$R_p$** (Personal Reality): Each individual's reality schema—their personal simulation of the world.
-- **Schema**: A trained abstract probabilistic simulator used by the brain.
-- **Construct**: A pattern of coherence within a reality, not a fixed definition but a dynamic field of resemblance.
+- **[$R_0$](/schematic-approach/foundation/Reality-schema)** (Reality Nought): The objective reality that exists independently of perception. Not abstract, all-seeing, all-knowing.
+- **[$R_p$](/schematic-approach/foundation/Reality-schema)** (Personal Reality): Each individual's reality schema—their personal simulation of the world.
+- **[Schema](/schematic-approach/foundation/Schemas)**: A trained abstract probabilistic simulator used by the brain.
+- **[Construct](/schematic-approach/foundation/Constructs)**: A pattern of coherence within a reality, not a fixed definition but a dynamic field of resemblance.
 
 ## Note on Cross-References
 

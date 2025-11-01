@@ -6,9 +6,13 @@ Epistemology asks, What does it mean to know? At the root of that question are t
 
 How do we view truth in the Schematic Approach? To start, truth is a construct, so what we are we are looking for is what is truth-like. How well something reflects our personal reality ([$R_p$](/schematic-approach/Consciousness)) creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
 
-While this truth is relatively fixed, each change of our [Consciousness](/schematic-approach/Consciousness), after each retraining of our previous consciousness provides a new reality and therefore possibly a new truth.
+While this truth is relatively fixed, each change of our [Consciousness](/schematic-approach/Consciousness), after each retraining of our previous consciousness, provides a new reality and therefore possibly a new truth.
 
 Training does tend to create a reality that is more specific and more consistent in regards to the inputs that were a part of this training, while it might have the opposite effect on things that are not related to the input of the training.
+
+## Closer to Reality 
+
+As each consciousness sees things differently from the previous consciousness, there is a tendency to feel that we have gotten closer to some ultimate truth.  It is tempting to see $R_0$ as the arbiter of this ultimate truth, that as we train $R_p$, it becomes a more accurate representation of $R_o$.  But how can one abstraction be more correct than another? 
 
 ## Construct Math
 
