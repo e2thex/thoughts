@@ -4,7 +4,7 @@ Epistemology asks, What does it mean to know? At the root of that question are t
 
 ## The Construct "Truth"
 
-How do we view truth in the Schematic Approach? To start, truth is a construct, so what we are we are looking for is what is truth-like. How well something reflects reality creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
+How do we view truth in the Schematic Approach? To start, truth is a construct, so what we are we are looking for is what is truth-like. How well something reflects our personal reality ([$R_p$](/schematic-approach/Consciousness)) creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
 
 While this truth is relatively fixed, each change of our [Consciousness](/schematic-approach/Consciousness), after each retraining of our previous consciousness provides a new reality and therefore possibly a new truth.
 
