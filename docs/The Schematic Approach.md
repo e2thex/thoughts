@@ -53,7 +53,9 @@ While we describe these schemas, body, attention, theory of mind, and others—a
 
 The reality schema is the brain's amalgamated simulation engine, where all these seemingly separate schemas blend and flow into one another. It is a continuously updated probabilistic model that is not just a combination of these different aspects of experience, but an integration of them.
 
-The reality schema is **not the world itself**. It is the internal simulation that **feels** like the world. It is how we navigate, interpret, and interact with our surroundings. It is our **personal reality**.
+The reality schema is **not the world itself**. It is the internal simulation that **feels** like the world. It is how we navigate, interpret, and interact with our surroundings. It is our **personal reality**. 
+
+So while there may exist a reality that is not our perception, a $R_0$, if you will, all of us have our own reality, which we will call $R_p$.
 
 ### Constructs
 
@@ -100,12 +102,11 @@ One way to illuminate that consciousness is our reality schema is to review plac
 #### Identical Twins
  Consider identical twins who are raised together and live similar lives. They often describe feeling as if they share a brain or struggle to feel distinct from each other.  Their reality schemas began with identical "instruction sets" and have been trained on nearly identical experiences throughout their lives. As a result, their schemas are highly synchronized. 
 
-#### Teams 
 We can demonstrate this by examining situations where our individual Unit of Consciousness is challenged. Consider identical twins who are raised together and live similar lives. They often describe feeling as if they share a brain or struggle to feel distinct from each other. This makes sense if we view their Realities as their Consciousness. Their Reality Schemas began with identical "instruction sets" and have been trained on nearly identical experiences throughout their lives. As a result, their schemas are highly synchronized, leading their realities - their consciousness - to be deeply aligned.
 
 This twin synchronization manifests in several scientifically documented ways:
 
-1. **Genetic Synchronization**: Identical twins share 100% of their DNA, which means their neural architecture and basic processing systems are identical. This provides the foundation for their Reality Schemas to develop in parallel ways. Research shows that even their brain wave patterns during similar tasks are remarkably synchronized.
+1. **Genetic Synchronization**: Identical twins share 100% of their DNA, which means their neural architecture and basic processing systems are identical. This provides the foundation for their Reality Schemas to develop in parallel ways. 
 
 2. **Developmental Synchronization**: From birth, twins experience the world together, creating what developmental psychologists call "shared developmental trajectories." Their Reality Schemas are trained on nearly identical inputs, leading to similar neural pathways and processing patterns. This is why twins often develop similar interests, preferences, and even thought patterns.
 
@@ -115,6 +116,7 @@ This twin synchronization manifests in several scientifically documented ways:
 
 The key insight here is that twins' shared consciousness isn't just about similar experiences - it's about having nearly identical Reality Schemas that process those experiences in the same way. Their genetic identity provides the same "hardware," while their shared upbringing provides the same "training data," resulting in Reality Schemas that are so closely aligned that they can feel like a single consciousness split across two bodies.
 
+#### Teams 
 We see a similar phenomenon, though more limited and compartmentalized, in teams that train intensively together. Navy SEAL teams and professional sports teams work deliberately to synchronize their realities. This enables them to function not as separate individuals but as a cohesive unit. Team members often describe this experience in ways that suggest a partial dissolution of their individual consciousness boundaries.
 
 This team synchronization manifests in several measurable ways:
@@ -128,31 +130,43 @@ This team synchronization manifests in several measurable ways:
 4. **Flow States**: When teams achieve peak synchronization, they often enter what's called a "group flow state" - a shared experience of optimal performance where individual consciousness boundaries become more permeable. This is particularly evident in sports like basketball or soccer, where players describe feeling as if they can read each other's minds.
 
 The key insight here is that these phenomena aren't just about behavioral coordination - they represent a genuine synchronization of Reality Schemas. When team members' schemas become aligned through intensive training and shared experience, their individual consciousness boundaries become more fluid, allowing for a form of shared consciousness that enables extraordinary levels of coordination and performance.
+#### Psychedelic drug use
 
-### Thoughts on Reality Nought (R$_0$)
+#### Prolonged Ecstatic Movement
+
+#### Past Self
+
+Every time our consciousness is trained, we end up with a new consciousness.  The majority of this training happens when we sleep. So after each good sleep we wake to a new consciousness.
+While each change might be small, so they feel like the same consciousness, but ofter lots of iteration this gap grows so large that often people recognize the differences, report they feel like that person 20 years ago is a totally different person.  Here again we see the closer the training the more the consciousness align the more they are the same.
+### Thoughts on Reality Nought ($R_0$)
 
 Some key differences of R$_0$ vs our realities have some interesting implications.
-1. R$_0$ is not abstract, this means it is all-seeing, 
-2. R$_0$ is not probabilistic , which means it is all-knowing.
+1. $R_0$ is not abstract, this means it is all-seeing, 
+2. $R_0$ is not probabilistic, which means it is all-knowing.
 
-### Conclusion
-By understanding how schemas like the Reality Schema, Decision Schema, and others work together, we gain valuable insights into how our mind operates and what it produces. These mental frameworks help explain everything from our basic sensory experiences to complex phenomena like consciousness and decision-making. Through studying these schemas, we can better understand not just what our mind does, but how it creates our lived experience of reality.
+### AI consciousness
 
-
-
-
+I think we are safe to say that LLM models are unique consciousnesses. They have the same kind of abstract, problablistic rea
 ## On Epistemology 
 
 Epistemology asks, What does it mean to know?   At the root of that question are the things that are known.  Across history, these have been called _Forms_, _Ideas_, _Concepts_, or _Representations_, all attempts to name the stable features of knowing.  In the **Schematic Approach**, we see this in the **constructs** created by our brain.
-### The construct Truth
+### The Construct "Truth"
 
-How do we view truth in the Schematic Approach?  To start, truth is a construct, so what we are we are looking for is what is truth-like.  How well something reflects reality creates a good anchor.  To be clear, this is not how it reflects R$_0$, but the reality that each of us exists in. 
+How do we view truth in the Schematic Approach?  To start, truth is a construct, so what we are we are looking for is what is truth-like.  How well something reflects reality creates a good anchor.  To be clear, this is not how it reflects R$_0$, but the reality that each of us exists in.  
 
-This covers many of the ways people think about truth, from This table is green, to 
+While this truth is relatively fixed, each change of our consciousness, after each retraining of our previous consciousness provides a new reality and there for possible a new truth.
+
+Training does tend to create a reality that is more specific and more consistent in regards to the inputs that were apart of this training, while it might have the opposite effect on things that are not related to the input of the training. 
+
+### Construct Math
+
+As construct are patterns to be match a interesting thing that happens with them is that constructs that feel like AND can end up function as OR.
+
+For example if we had a construct construct "something round" and "something used for play". and then we have a construct ball, which is something round and used for play.  we would think that his would be a vein diagram of things that were round and used for play.  But because a construct is not binary we get things that pull in to ball that did not meet the threshold for those on their own. For example a football is not something round, but it does round like things when in the context of play, so it gets to be a ball.  While a bat does not so while it is used for play, it does not get become a ball.
 
 ## On Free Will
 
-What can this understanding of schemas tell us about the feeling of free will? This feeling that with some of our actions, we appear to be making a choice; not that the choice is random or thrust upon us.
+What can this understanding of schemas tell us about the feeling of free will? This feeling that with some of our actions, we appear to be making a choice, not that the choice is random or thrust upon us.
 
 ### Exploring Non-Free Will
 
