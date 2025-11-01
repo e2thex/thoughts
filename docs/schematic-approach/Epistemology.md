@@ -1,12 +1,12 @@
 # On Epistemology
 
-Epistemology asks, What does it mean to know? At the root of that question are the things that are known. Across history, these have been called _Forms_, _Ideas_, _Concepts_, or _Representations_, all attempts to name the stable features of knowing. In the **Schematic Approach**, we see this in the [**constructs**](Constructs.md) created by our brain.
+Epistemology asks, What does it mean to know? At the root of that question are the things that are known. Across history, these have been called _Forms_, _Ideas_, _Concepts_, or _Representations_, all attempts to name the stable features of knowing. In the **Schematic Approach**, we see this in the [**constructs**](/schematic-approach/foundation/Constructs) created by our brain.
 
 ## The Construct "Truth"
 
 How do we view truth in the Schematic Approach? To start, truth is a construct, so what we are we are looking for is what is truth-like. How well something reflects reality creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
 
-While this truth is relatively fixed, each change of our [Consciousness](Consciousness.md), after each retraining of our previous consciousness provides a new reality and therefore possibly a new truth.
+While this truth is relatively fixed, each change of our [Consciousness](/schematic-approach/Consciousness), after each retraining of our previous consciousness provides a new reality and therefore possibly a new truth.
 
 Training does tend to create a reality that is more specific and more consistent in regards to the inputs that were a part of this training, while it might have the opposite effect on things that are not related to the input of the training.
 

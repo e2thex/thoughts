@@ -1,6 +1,6 @@
 # On Free Will
 
-What can this understanding of [Schemas](Schemas.md) tell us about the feeling of free will? This feeling that with some of our actions, we appear to be making a choice, not that the choice is random or thrust upon us.
+What can this understanding of [Schemas](/schematic-approach/foundation/Schemas) tell us about the feeling of free will? This feeling that with some of our actions, we appear to be making a choice, not that the choice is random or thrust upon us.
 
 ## Exploring Non-Free Will
 
@@ -28,7 +28,7 @@ These examples highlight situations where our experience differs from the feelin
 
 ## The Decision Schema
 
-Like everything our brain does, we can expect that it uses a [schema](Schemas.md) when evaluating why we have acted the way we do. As this decision simulator is abstracted, we do not have perfect information on why we took or will take an action. Instead, we are only left with a probabilistic distribution of reasons for our actions.
+Like everything our brain does, we can expect that it uses a [schema](/schematic-approach/foundation/Schemas) when evaluating why we have acted the way we do. As this decision simulator is abstracted, we do not have perfect information on why we took or will take an action. Instead, we are only left with a probabilistic distribution of reasons for our actions.
 
 ## Shape of the Distributions
 
@@ -69,7 +69,7 @@ For example:
 
 So if $R_0$ does not have any probability, do they have free will? I think we would have to conclude everything is known.
 
-For discussion of $R_0$ in the context of consciousness, see [Thoughts on Reality Nought](Consciousness.md#thoughts-on-reality-nought-r_0).
+For discussion of $R_0$ in the context of consciousness, see [Thoughts on Reality Nought](/schematic-approach/Consciousness#thoughts-on-reality-nought-r_0).
 
 ## Conclusion
 

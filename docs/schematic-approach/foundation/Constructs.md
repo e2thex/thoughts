@@ -1,6 +1,6 @@
 # Constructs
 
-Part of the pattern of [Schemas](Schemas.md) is that they create representations of $R_0$ (reality nought) through the [reality schema](Reality-schema.md). These we call **Constructs**.
+Part of the pattern of [Schemas](/schematic-approach/foundation/Schemas) is that they create representations of $R_0$ (reality nought) through the [reality schema](/schematic-approach/foundation/Reality-schema). These we call **Constructs**.
 
 A **Construct** is not a definition but a pattern of coherence within a reality. It is a probabilistic structure that allows experiences or perceptions to be matched, compared, and organized. A construct is not a fixed category ("what red is") but a dynamic field of resemblance ("what is red-like"). In this sense, constructs are operational patterns, not propositional truths; they are the ways a reality holds its world together through degrees of similarity.
 
@@ -21,5 +21,5 @@ Sad is another construct; it abstracts the complexity of our bodies. This patter
 
 ---
 
-Constructs are central to [Epistemology](Epistemology.md) in the Schematic Approach, as they represent the stable features of knowing. They also have interesting mathematical properties, as explored in [Construct Math](Epistemology.md#construct-math).
+Constructs are central to [Epistemology](/schematic-approach/Epistemology) in the Schematic Approach, as they represent the stable features of knowing. They also have interesting mathematical properties, as explored in [Construct Math](/schematic-approach/Epistemology#construct-math).
 

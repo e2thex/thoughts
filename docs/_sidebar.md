@@ -1,13 +1,11 @@
 * [Home](/)
-* [The Schematic Apprpach](schematic-approach/README)
-
-* Schematic Approach
+* [The Schematic Apprpach](/schematic-approach/README)
   * Foundation
-    * [Schemas](schematic-approach/foundation/Schemas.md)
-    * [Reality Schema](schematic-approach/foundation/Reality-schema.md)
-    * [Constructs](schematic-approach/foundation/Constructs.md)
+    * [Schemas](/schematic-approach/foundation/Schemas)
+    * [Reality Schema](/schematic-approach/foundation/Reality-schema)
+    * [Constructs](/schematic-approach/foundation/Constructs)
   * Applications
-    * [Consciousness](schematic-approach/Consciousness.md)
-    * [Epistemology](schematic-approach/Epistemology.md)
-    * [Free Will](schematic-approach/free-will.md)
-    * [Ethics](schematic-approach/Ethics.md)
+    * [Consciousness](/schematic-approach/Consciousness)
+    * [Epistemology](/schematic-approach/Epistemology)
+    * [Free Will](/schematic-approach/free-will)
+    * [Ethics](/schematic-approach/Ethics)

@@ -48,5 +48,5 @@ Training can **sharpen the predictive accuracy** of a schema and also **speciali
 
 ---
 
-These individual schemas are deeply interconnected facets of a single, comprehensive simulator: the [Reality Schema](Reality-schema.md). Schemas create representations that we call [Constructs](Constructs.md), which are patterns of coherence within a reality.
+These individual schemas are deeply interconnected facets of a single, comprehensive simulator: the [Reality Schema](/schematic-approach/foundation/Reality-schema). Schemas create representations that we call [Constructs](/schematic-approach/foundation/Constructs), which are patterns of coherence within a reality.
 
