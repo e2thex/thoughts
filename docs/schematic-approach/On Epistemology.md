@@ -12,7 +12,7 @@ Training does tend to create a reality that is more specific and more consistent
 
 ## Closer to Reality 
 
-As each consciousness sees things differently from the previous consciousness, there is a tendency to feel that we have gotten closer to some ultimate truth.  It is tempting to see $R_0$ as the arbiter of this ultimate truth, that as we train $R_p$, it becomes a more accurate representation of $R_o$.  But how can one abstraction be more correct than another? 
+As each consciousness sees things differently from the previous consciousness, there is a tendency to feel that we have gotten closer to some ultimate truth.  It is tempting to see $R_0$ as the arbiter of this ultimate truth, that as we train $R_p$, it becomes a more accurate representation of $R_o$.  But how can one abstraction be more correct than another? If we were to look at an inkblot every day for a year, would we say that what we saw in it on the 365th day is more correct than the first? 
 
 ## Construct Math
 
