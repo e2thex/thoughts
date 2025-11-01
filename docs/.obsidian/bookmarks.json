@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1762020553446,
+      "title": "Schematic Approach Graph",
+      "options": {
+        "collapse-filter": true,
+        "search": "path:schematic-approach  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0.1,
+        "nodeSizeMultiplier": 5,
+        "lineSizeMultiplier": 4.30356038411458,
+        "collapse-forces": false,
+        "centerStrength": 0.500528971354167,
+        "repelStrength": 10,
+        "linkStrength": 0.7127685546875,
+        "linkDistance": 346,
+        "scale": 1.361438327001019,
+        "close": false
+      }
+    }
+  ]
+}
