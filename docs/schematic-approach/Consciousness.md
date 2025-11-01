@@ -16,7 +16,7 @@ When we consider consciousness, we are always dealing with these two dimensions:
 
 ## Consciousness as Reality
 
-The concept that we call consciousness is reality, or more specifically, each reality is a consciousness. While we speak of a Reality (reality nought or $R_0$), each of us does not directly experience it; instead, we each experience our individual [reality schema](Reality-schema.md).
+The concept that we call consciousness is reality, or more specifically, each reality is a consciousness. While we speak of a Reality (reality nought or $R_0$), each of us does not directly experience it; instead, we each experience our individual [reality schema](/schematic-approach/foundation/Reality-schema).
 
 One way to illuminate that consciousness is our reality schema is to review places where people have described the dissolution of self, or shared consciousness. Let us look at 5 examples:
 1. **Identical twins** who are raised together and live similar lives.
@@ -77,7 +77,7 @@ Some key differences of $R_0$ vs our realities have some interesting implication
 1. $R_0$ is not abstract, this means it is all-seeing,
 2. $R_0$ is not probabilistic, which means it is all-knowing.
 
-For further discussion of $R_0$ in relation to free will, see [Thoughts on Reality Nought](../free-will.md#thoughts-on-reality-nought-r_0) in the Free Will section.
+For further discussion of $R_0$ in relation to free will, see [Thoughts on Reality Nought](/schematic-approach/free-will#thoughts-on-reality-nought-r_0) in the Free Will section.
 
 ## AI consciousness
 
