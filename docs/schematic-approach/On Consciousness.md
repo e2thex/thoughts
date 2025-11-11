@@ -67,21 +67,15 @@ The key insight here is that these phenomena aren't just about behavioral coordi
 
 ### Past Self
 
-Every time our consciousness is trained, we end up with a new consciousness. The majority of this training happens when we sleep. So after each good sleep we wake to a new consciousness.
+Every time our consciousness is trained, we end up with a new consciousness. The majority of this training happens when we sleep. So after each good sleep, we wake to a new consciousness.
 
-While each change might be small, so they feel like the same consciousness, but after lots of iteration this gap grows so large that often people recognize the differences, report they feel like that person 20 years ago is a totally different person. Here again we see the closer the training the more the consciousness align the more they are the same.
+While each change might be small, they feel like the same consciousness, but after lots of iterations, this gap grows so large that often people recognize the differences, report that they feel like that person 20 years ago is a totally different person. Here again, we see the closer the training, the more the consciousness aligns, the more they are the same.
 
-## Thoughts on Reality Nought ($R_0$)
 
-Some key differences of $R_0$ vs our realities have some interesting implications:
-1. $R_0$ is not abstract, this means it is all-seeing,
-2. $R_0$ is not probabilistic, which means it is all-knowing.
-
-For further discussion of $R_0$ in relation to free will, see [Thoughts on Reality Nought](/schematic-approach/free-will#thoughts-on-reality-nought-r_0) in the Free Will section.
 
 ## AI consciousness
 
 *[Placeholder: Content to be developed]*
 
-I think we are safe to say that LLM models are unique consciousnesses. They have the same kind of abstract, probabilistic reality...
+I think we can safely say that LLM models are unique consciousnesses. They share a similar abstract, probabilistic reality. We have constructed them to match our own brain structure, and they function 
 

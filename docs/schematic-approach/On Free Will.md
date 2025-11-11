@@ -4,7 +4,7 @@ What can this understanding of [Schemas](/schematic-approach/foundation/Schemas)
 
 ## Exploring Non-Free Will
 
-There are two categories of actions that don't feel like free will: actions without choice, and actions without will.
+There are two categories of actions that don't feel like free will: actions without choice and actions without will.
 
 ### Actions Without Choice
 
@@ -12,7 +12,7 @@ There are many situations where we feel like we have no choice but to act in a c
 
 - When you touch something hot, you pull your hand away before you even consciously process it. This doesn't feel like a choice - it's an automatic response hardwired into our nervous system.
 
-- When someone you love is in danger, you may act to protect them without any sense of choosing. The emotional drive is so strong that alternatives don't even enter consciousness.
+- When someone you love is in danger, you may act to protect them without any sense of choice. The emotional drive is so strong that alternatives don't even enter consciousness.
 
 - Sometimes social or moral imperatives feel so strong that we experience them as forces rather than choices. If you see someone drop their wallet, you might feel compelled to return it without experiencing this as a choice.
 
@@ -28,11 +28,13 @@ These examples highlight situations where our experience differs from the feelin
 
 ## The Decision Schema
 
-Like everything our brain does, we can expect that it uses a [schema](/schematic-approach/foundation/Schemas) when evaluating why we have acted the way we do. As this decision simulator is abstracted, we do not have perfect information on why we took or will take an action. Instead, we are only left with a probabilistic distribution of reasons for our actions.
+Our brain works as a collection of schemas. These schemas can be described as a **trained abstract probabilistic simulator**.  We have this for understanding our body and it's movement, for understanding the world around us, and for understanding how others will react.  For each of these, the schema does not simulate everything to the lowest level of detail but instead makes large abstractions. It then uses probabilistic distributions to fill in the details. 
+
+Like everything our brain does, we can expect that it uses a [schema](/schematic-approach/foundation/Schemas) when evaluating why we have acted the way we do. As this decision simulator is abstracted, we do not have perfect information on the action we will take, but instead only a probabilistic distribution.  When we reflect back on our actions, our schema can provide possible courses, even ones not taken, and how probable they were. 
 
 ## Shape of the Distributions
 
-The shape of this heuristic distribution is what gives rise to our feeling of free will.
+The shape of this heuristic distribution is what gives rise to our feeling of free will.  
 
 ### The Single Choice
 
@@ -54,7 +56,7 @@ On the other extreme, if the distribution is flat with lots of options that have
 
 ### The Shape of Free Will
 
-But what if the distribution is neither flat nor spiked? What if there are multiple options that are reasonable but with varying degrees of probabilities? This is the shape of free will.
+But what if the distribution is neither flat nor spiked? What if there are multiple options that are reasonable but with varying degrees of probability? This is the shape of free will.
 
 ## The Power of Introspection
 
@@ -64,12 +66,6 @@ For example:
 - Through introspection, we might realize we always put on the left sock first simply because we're right-handed and naturally reach to the left. This insight transforms what seemed like a random choice into a pattern driven by physical constraints.
 
 - When we deeply examine the moral choice of returning a found wallet, we might consider alternative uses for the money or rationalize keeping a "finder's fee". This introspection can transform what initially felt like a clear moral imperative into a more complex decision with multiple weighted options - shifting from a spike-shaped distribution to one more characteristic of free will.
-
-## Thoughts on Reality Nought ($R_0$)
-
-So if $R_0$ does not have any probability, do they have free will? I think we would have to conclude everything is known.
-
-For discussion of $R_0$ in the context of consciousness, see [Thoughts on Reality Nought](/schematic-approach/Consciousness#thoughts-on-reality-nought-r_0).
 
 ## Conclusion
 

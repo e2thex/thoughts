@@ -10,5 +10,5 @@ So while there may exist a reality that is not our perception, a $R_0$ (reality 
 
 The reality schema creates representations of $R_0$ through [Constructs](/schematic-approach/foundation/Constructs), which are patterns of coherence that allow experiences to be matched, compared, and organized.
 
-This concept is central to understanding [Consciousness](/schematic-approach/Consciousness), as consciousness and the reality schema are one and the same.
+This concept is central to understanding [On Consciousness](On%20Consciousness.md), as consciousness and the reality schema are one and the same.
 

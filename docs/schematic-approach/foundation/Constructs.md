@@ -21,5 +21,5 @@ Sad is another construct; it abstracts the complexity of our bodies. This patter
 
 ---
 
-Constructs are central to [Epistemology](/schematic-approach/Epistemology) in the Schematic Approach, as they represent the stable features of knowing. They also have interesting mathematical properties, as explored in [Construct Math](/schematic-approach/Epistemology#construct-math).
+Constructs are central to [On Epistemology](On%20Epistemology.md) in the Schematic Approach, as they represent the stable features of knowing. They also have interesting mathematical properties, as explored in [Construct Math](On%20Epistemology.md#construct-math).
 

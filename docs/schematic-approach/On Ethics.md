@@ -1,6 +1,6 @@
 # On Ethics
 
-We can approach ethics with this same [schema framework](/schematic-approach/foundation/Schemas). I think that we will find ethics in our [decision schema](/schematic-approach/free-will#the-decision-schema).
+We can approach ethics with this same [schema framework](/schematic-approach/foundation/Schemas). I think that we will find ethics in our [decision schema](On%20Free%20Will.md#the-decision-schema).
 
 ## Schematic Definition of Religion
 

@@ -4,11 +4,14 @@ An exploration of consciousness, cognition, and reality through the lens of sche
 
 ## Overview
 
-A **schema** is best defined as a **trained abstract probabilistic simulator**. These mental structures allow the brain to navigate the world efficiently by creating simplified, probabilistic models rather than processing every detail. The Schematic Approach uses this framework to understand consciousness, epistemology, free will, ethics, and more.
+The Schematic approach is to start from the premise that we experience the world not directly, but instead we experience an abstract probabilistic simulator of this world.  This also means abstractions we construct (constructs) are not definitions, but instead are patterns that match to different degrees.
 
-The central insight is that what we call **consciousness** is actually our **reality schema**—the brain's amalgamated simulation engine that creates our personal reality ($R_p$) from the raw data of objective reality ($R_0$).
-
-## Navigation
+This allows for some central insights:
+* What we call **consciousness** is actually our **reality schema**—the brain's amalgamated simulation engine that creates our personal reality ($R_p$) from the raw data of objective reality ($R_0$).
+* Each LLM model is a consciousness.
+* Truth is a construct, where we match how much something matches our personal reality 
+* Free will is a construct where we match past or future action against the other probable actions. If there we other probable actions, we felt it as free will. 
+## Details
 
 ### Foundation
 
@@ -22,20 +25,20 @@ These core concepts form the basis of the Schematic Approach:
 
 The Schematic Approach applied to major philosophical and cognitive questions:
 
-- **[Consciousness](/schematic-approach/Consciousness)** - How consciousness emerges from the reality schema, with examples from twins, teams, and personal experience
-- **[Epistemology](/schematic-approach/Epistemology)** - What it means to know, truth as a construct, and the mathematics of constructs
-- **[Free Will](/schematic-approach/free-will)** - How the feeling of free will emerges from probability distributions in the decision schema
-- **[Ethics](/schematic-approach/Ethics)** - Exploring ethics through the schema framework (in progress)
+- **[On Consciousness](On%20Consciousness.md)** - How consciousness emerges from the reality schema, with examples from twins, teams, and personal experience
+- **[On Epistemology](On%20Epistemology.md)** - What it means to know, truth as a construct, and the mathematics of constructs
+- **[Free Will](On%20Free%20Will.md)** - How the feeling of free will emerges from probability distributions in the decision schema
+- **[On Ethics](On%20Ethics.md)** - Exploring ethics through the schema framework (in progress)
 
 ## Suggested Reading Order
 
 1. **Start with Foundation**: Read [Schemas](/schematic-approach/foundation/Schemas), [Reality Schema](/schematic-approach/foundation/Reality-schema), and [Constructs](/schematic-approach/foundation/Constructs) to understand the core framework.
 
 2. **Explore Applications**: From there, the applications can be read in any order, though they build on each other:
-   - [Consciousness](/schematic-approach/Consciousness) shows how the reality schema is consciousness itself
-   - [Epistemology](/schematic-approach/Epistemology) explores what we can know through constructs
-   - [Free Will](/schematic-approach/free-will) examines decision-making through schemas
-   - [Ethics](/schematic-approach/Ethics) applies the framework to moral reasoning (in progress)
+   - [On Consciousness](On%20Consciousness.md) shows how the reality schema is consciousness itself
+   - [On Epistemology](On%20Epistemology.md) explores what we can know through constructs
+   - [Free Will](On%20Free%20Will.md) examines decision-making through schemas
+   - [On Ethics](On%20Ethics.md) applies the framework to moral reasoning (in progress)
 
 3. **Cross-Reference Freely**: Documents contain inline links to related concepts. Follow these connections as your interest guides you.
 
