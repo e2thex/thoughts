@@ -4,7 +4,7 @@ Epistemology asks, What does it mean to know? At the root of that question are t
 
 ## The Construct "Truth"
 
-How do we view truth in the Schematic Approach? To start, truth is a construct, so what we are we are looking for is what is truth-like. How well something reflects our personal reality ([$R_p$](On%20Consciousness.md)) creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
+How do we view truth in the Schematic Approach? To start, truth is a construct, so what we we are looking for is what is truth-like. How well something reflects our personal reality ([$R_p$](On%20Consciousness.md)) creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
 
 While this truth is relatively fixed, each change of our [On Consciousness](On%20Consciousness.md), after each retraining of our previous consciousness, provides a new reality and therefore possibly a new truth.
 
@@ -18,5 +18,5 @@ As each consciousness sees things differently from the previous consciousness, t
 
 As constructs are patterns to be matched, an interesting thing that happens with them is that constructs that feel like AND can end up functioning as OR.
 
-For example if we had a construct "something round" and "something used for play", and then we have a construct ball, which is something round and used for play. We would think that this would be a Venn diagram of things that were round and used for play. But because a construct is not binary we get things that pull into ball that did not meet the threshold for those on their own. For example a football is not something round, but it does round-like things when in the context of play, so it gets to be a ball. While a bat does not, so while it is used for play, it does not become a ball.
+For example if we had a construct "something round" and "something used for play", and then we have a construct ball, which is something round and used for play. We would think that this would be a Venn diagram of things that were round and used for play. But because a construct is not binary we get things that pull into ball that did not meet the threshold for those on their own. For example, a football is not something round, but it does round-like things when in the context of play, so it gets to be a ball. While a bat does not, so while it is used for play, it does not become a ball.
 
