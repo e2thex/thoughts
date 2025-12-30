@@ -12,6 +12,7 @@ This allows for some central insights:
 * Truth is a construct, where we match how much something matches our personal reality 
 * Free will is a construct where we match past or future action against the other probable actions. If there we other probable actions, we felt it as free will. 
 
+We will start by exploring the foundation that we will return to time and again. 
 ## Foundation
 ### Schemas
 
