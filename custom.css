@@ -6,6 +6,7 @@
   .app-name,
   .sidebar-nav,
   aside.sidebar {
+    transform: translateX(-300px);
     display: none !important;
     visibility: hidden !important;
     width: 0 !important;
