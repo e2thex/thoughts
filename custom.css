@@ -1,36 +1,60 @@
 @media print {
-  /* Hide sidebar when printing */
+  /* Hide sidebar and navigation elements */
   .sidebar,
-  .sidebar-toggle {
-    display: none !important;
-  }
-  
-  /* Remove left padding/margin from main content */
+  .sidebar-toggle,
+  .sidebar-close,
   .app-name,
-  .sidebar,
-  .markdown-section {
-    margin-left: 0 !important;
-    padding-left: 0 !important;
-  }
-  
-  /* Make content use full width */
-  .markdown-section {
-    max-width: 100% !important;
+  .sidebar-nav,
+  aside.sidebar {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
     margin: 0 !important;
     padding: 0 !important;
   }
   
-  /* Ensure body and app container have no left spacing */
+  /* Remove all left spacing from main content area */
+  .markdown-section,
+  section.content,
+  .content,
+  main {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  
+  /* Ensure body and app container have no spacing */
   body,
+  html,
   #app {
     margin: 0 !important;
     padding: 0 !important;
   }
   
-  /* Fix any container that might have left spacing */
-  .content {
+  /* Fix Docsify's main container */
+  body > #app,
+  #app > section,
+  #app > .content {
     margin-left: 0 !important;
     padding-left: 0 !important;
+    width: 100% !important;
+  }
+  
+  /* Hide any search or other UI elements */
+  .search,
+  .search-input,
+  .sidebar-toggle {
+    display: none !important;
+  }
+  
+  /* Ensure markdown content uses full width */
+  .markdown-section {
+    max-width: none !important;
+    margin: 0 auto !important;
+    padding: 0 1cm !important;
   }
 }
 
