@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65bfd941b1fce43c",
+  "active": "0aa0e40b3e09d034",
   "lastOpenFiles": [
-    "On Consciousness.md",
-    "schematic-approach/README.md",
     "schematic-approach/Determinism Indistinguishable from Randomness.md",
+    "schematic-approach/README.md",
+    "On Consciousness.md",
     "bob.md",
     "schematic-approach/foundation/Schemas.md",
     "schematic-approach/foundation/Constructs.md",
