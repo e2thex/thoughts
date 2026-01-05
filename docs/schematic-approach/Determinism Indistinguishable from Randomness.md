@@ -14,9 +14,9 @@ To show this, let's play a game!  For this game, we have a long series of number
 
 This list is constructed by a determined pattern; each new number added is determined by the previous numbers.
 
-But I also make a list of numbers, generating each number randomly. 
+However, I also create a list of numbers, generating each one randomly. 
 
-Both of these lists can go on in either direction forever, so I keep generating numbers until I find a point where I can line up the list for 100 numbers, and they match.
+Both of these lists can continue in either direction indefinitely, so I keep generating numbers until I find a point where I can align the lists for 100 numbers, and they match.
 
 If I show you the first 99 numbers, would the 100th number be randomly generated or determined? 
 

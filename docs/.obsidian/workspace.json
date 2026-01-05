@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f710add24a32f95",
+        "id": "39bbd447065bb439",
         "type": "tabs",
         "children": [
           {
-            "id": "e1d0bea7d06330d1",
+            "id": "0aa0e40b3e09d034",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 434.5
   },
   "right": {
     "id": "ba5bcad32680af2a",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Schematic Approach.md",
+                "file": "Gates of Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Schematic Approach"
+              "title": "Backlinks for Gates of Technology"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Schematic Approach.md",
+                "file": "Gates of Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Schematic Approach"
+              "title": "Outgoing links from Gates of Technology"
             }
           },
           {
@@ -129,7 +129,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -182,26 +182,21 @@
   },
   "active": "65bfd941b1fce43c",
   "lastOpenFiles": [
-    "schematic-approach/On Reality Nought.md",
-    "schematic-approach/Determinism Indistinguishable from Randomness.md",
+    "On Consciousness.md",
     "schematic-approach/README.md",
+    "schematic-approach/Determinism Indistinguishable from Randomness.md",
     "bob.md",
+    "schematic-approach/foundation/Schemas.md",
+    "schematic-approach/foundation/Constructs.md",
+    "schematic-approach/On Consciousness.md",
+    "schematic-approach/On Free Will.md",
+    "schematic-approach/On Reality Nought.md",
+    "schematic-approach/On Epistemology.md",
+    "schematic-approach/On Ethics.md",
+    "Untitled 1.base",
+    "The Schematic Approach.md",
     "schematic-approach/foundation/Reality-schema.md",
     "schematic-approach/foundation",
-    "schematic-approach/On Ethics.md",
-    "schematic-approach/On Epistemology.md",
-    "schematic-approach/On Consciousness.md",
-    "schematic-approach/free-will.md",
-    "schematic-approach/On Free Will.md",
-    "schematic-approach/foundation/Constructs.md",
-    "schematic-approach/foundation/Schemas.md",
-    "README.md",
-    "schematic-approach/foundation/README.md",
-    "schematic-approach/Ethics.md",
-    "Untitled 1.base",
-    "schematic-approach/Epistemology.md",
-    "schematic-approach/Consciousness.md",
-    "The Schematic Approach.md",
     "schematic-approach",
     "Untitled.base",
     "Gates of Technology.md"
