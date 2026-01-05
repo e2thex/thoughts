@@ -180,9 +180,9 @@ Epistemology asks, What does it mean to know? At the root of that question are t
 
 ### The Construct "Truth"
 
-How do we view truth in the Schematic Approach? To start, truth is a construct, so what we are looking for is what is truth-like. How well something reflects our personal reality ([$R_p$](On%20Consciousness.md)) creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
+How do we view truth in the Schematic Approach? To start, truth is a construct, so what we are looking for is what is truth-like. How well something reflects our personal reality ([$R_p$](#On-Consciousness)) creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
 
-While this truth is relatively fixed, each change of our [Consciousness](#on-consciousness),[[#On Consciousness]] after each retraining of our previous consciousness, provides a new reality and therefore possibly a new truth.
+While this truth is relatively fixed, each change of our [Consciousness](#on-consciousness), after each retraining of our previous consciousness, provides a new reality and therefore possibly a new truth.
 
 Training tends to create a reality that is more specific and consistent regarding the inputs that were part of this training, while it may have the opposite effect on things unrelated to the training inputs.
 
@@ -201,14 +201,7 @@ We can see this in work where realities are often in sync and where they tend no
 In fact, when viewed from this perspective, we can see that the entire endeavor of science is about exploring how useful ideas are. 
 ### Closer to Reality  
 
-As each consciousness sees things differently from the previous consciousness, there is a tendency to feel that we have gotten closer to some ultimate truth.  It is tempting to see $R_0$ as the arbiter of this ultimate truth, that as we train $R_p$, it becomes a more accurate representation of $R_o$.  But how can one abstraction be more correct than another? If we were to look at an inkblot every day for a year, would we say that what we saw in it on the 365th day is more correct than the first? 
-
-### Construct Math
-
-As constructs are patterns to be matched, an interesting thing that happens with them is that constructs that feel like AND can end up functioning as OR.
-
-For example if we had a construct "something round" and "something used for play", and then we have a construct ball, which is something round and used for play. We would think that this would be a Venn diagram of things that were round and used for play. But because a construct is not binary we get things that pull into ball that did not meet the threshold for those on their own. For example, a football is not something round, but it does round-like things when in the context of play, so it gets to be a ball. While a bat does not, so while it is used for play, it does not become a ball.
-
+As each consciousness sees things differently from the previous consciousness, there is a tendency to feel that we have gotten closer to some ultimate truth.  It is tempting to see $R_0$ as the arbiter of this ultimate truth, that as we train $R_p$, it becomes a more accurate representation of $R_o$.  But how can one abstraction be more correct than another? If we were to look at an inkblot every day for a year, would we say that what we saw in it on the 365th day is more correct than the first? We might be able to say it is more likely to be useful, but not more correct.
 
 ## On Free Will
 
@@ -291,4 +284,9 @@ This model helps explain why the debate over free will has persisted for so long
 - **[Schema](/schematic-approach/foundation/Schemas)**: A trained abstract probabilistic simulator used by the brain.
 - **[Construct](/schematic-approach/foundation/Constructs)**: A probabilistic structure that allows experiences or perceptions to be matched, compared, and organized.
 
+## Appendix
+### Construct Math
 
+As constructs are patterns to be matched, an interesting phenomenon occurs with them: constructs that feel like AND can end up functioning as OR.
+
+For example, if we had a construct "something round" and "something used for play", and then we have a construct ball, which is something round and used for play. We would think that this would be a Venn diagram of things that were round and used for play. But because a construct is not binary, we get things that pull into "ball" that did not meet the threshold for those on their own. For example, a football is not something round, but it does round-like things when in the context of play, so it gets to be a ball. While a bat does not, so while it is used for play, it does not become a ball.
