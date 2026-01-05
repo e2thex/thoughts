@@ -182,7 +182,7 @@ Epistemology asks, What does it mean to know? At the root of that question are t
 
 How do we view truth in the Schematic Approach? To start, truth is a construct, so what we are looking for is what is truth-like. How well something reflects our personal reality ([$R_p$](On%20Consciousness.md)) creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
 
-While this truth is relatively fixed, each change of our [Consciousness](#On Consciousness), after each retraining of our previous consciousness, provides a new reality and therefore possibly a new truth.
+While this truth is relatively fixed, each change of our [Consciousness](#on-consciousness), after each retraining of our previous consciousness, provides a new reality and therefore possibly a new truth.
 
 Training tends to create a reality that is more specific and consistent regarding the inputs that were part of this training, while it may have the opposite effect on things unrelated to the training inputs.
 
