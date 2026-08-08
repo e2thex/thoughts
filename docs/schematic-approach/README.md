@@ -2,6 +2,8 @@
 
 The schematic approach is a way to evaluate philosophy, in which one starts with how the brain functions and then evaluates the mysteries of philosophy in that context. 
 
+This document is an exploration of consciousness, cognition, and reality, starting with an understanding of how the brain operates.  always returning to how the brain operates in a probabilistic and abstract manner. 
+
 Here we will explore the nature of consciousness, cognition, and reality, always starting with an understanding of how the brain operates.
 ## Overview
 
@@ -186,8 +188,6 @@ Every time our consciousness is trained, we end up with a new consciousness. The
 
 While each change might be small, they feel like the same consciousness, but after lots of iterations, this gap grows so large that often people recognize the differences, report that they feel like that person 20 years ago is a totally different person. Here again, we see the closer the training, the more the consciousness aligns, the more they are the same.
 
-
-
 ### AI consciousness
 
 *[Placeholder: Content to be developed]*
@@ -196,19 +196,32 @@ I think we can safely say that LLM models are unique consciousnesses. They share
 
 ## On Epistemology
 
-Epistemology asks, What does it mean to know? At the root of that question are the things that are known. Across history, these have been called _Forms_, _Ideas_, _Concepts_, or _Representations_, all attempts to name the stable features of knowing. In the **Schematic Approach**, we see this in the [**constructs**](/schematic-approach/foundation/Constructs) created by our brain.
+Epistemology asks, What does it mean to know? At the root of that question are the things that are known. Across history, these have been called _Forms_, _Ideas_, _Concepts_, or _Representations_, all attempts to name the stable features of knowing. In the **Schematic Approach**, we see this in the [constructs bob](#Constructs) created by our brain.
 
 ### The Construct "Truth"
 
-How do we view truth in the Schematic Approach? To start, truth is a construct, so what we we are looking for is what is truth-like. How well something reflects our personal reality ([$R_p$](On%20Consciousness.md)) creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
+How do we view truth in the Schematic Approach? To start, truth is a construct, so what we are looking for is what is truth-like. How well something reflects our personal reality ([$R_p$](#On-Consciousness)) creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
 
-While this truth is relatively fixed, each change of our [On Consciousness](On%20Consciousness.md), after each retraining of our previous consciousness, provides a new reality and therefore possibly a new truth.
+While this truth is relatively fixed, each change of our [Consciousness](#on-consciousness), after each retraining of our previous consciousness, provides a new reality and therefore possibly a new truth.
 
-Training does tend to create a reality that is more specific and more consistent in regards to the inputs that were a part of this training, while it might have the opposite effect on things that are not related to the input of the training.
+Training tends to create a reality that is more specific and consistent regarding the inputs that were part of this training, while it may have the opposite effect on things unrelated to the training inputs.
 
-### Closer to Reality 
+So, if each reality has its own truth, can we compare truths between realities?  
+I think we can explore this via an analogy of superheroes from different dimensions meeting. 
 
-As each consciousness sees things differently from the previous consciousness, there is a tendency to feel that we have gotten closer to some ultimate truth.  It is tempting to see $R_0$ as the arbiter of this ultimate truth, that as we train $R_p$, it becomes a more accurate representation of $R_o$.  But how can one abstraction be more correct than another? If we were to look at an inkblot every day for a year, would we say that what we saw in it on the 365th day is more correct than the first? 
+When they meet and start discussing history, can we say which one is more accurate? I would say that there is no way to say one is more correct than the other.  
+
+Now, let's say that they were both dumped into a 3rd dimension that is different from either one from where they came.  While we can not say which one is more correct, we could say which is more useful, as they learn how this 3rd dimension is similar to the dimension from which they came. 
+#### More useful
+
+If we pull this idea back to a single dimension, while we can not compare truths between realities, we can compare how useful our realities are.
+
+We can see this in work where realities are often in sync and where they tend not to be, for example, while realities differ a lot on the afterlife, they differ little on what happens if you let go of an object. Gravity is a useful abstraction that persists across many realities. 
+
+In fact, when viewed from this perspective, we can see that the entire endeavor of science is about exploring how useful ideas are. 
+### Closer to Reality  
+
+As each consciousness sees things differently from the previous consciousness, there is a tendency to feel that we have gotten closer to some ultimate truth.  It is tempting to see $R_0$ as the arbiter of this ultimate truth, that as we train $R_p$, it becomes a more accurate representation of $R_o$.  But how can one abstraction be more correct than another? If we were to look at an inkblot every day for a year, would we say that what we saw in it on the 365th day is more correct than the first? We might be able to say it is more likely to be useful, but not more correct.
 
 ## On Free Will
 
@@ -291,4 +304,9 @@ This model helps explain why the debate over free will has persisted for so long
 - **[Schema](/schematic-approach/foundation/Schemas)**: A trained abstract probabilistic simulator used by the brain.
 - **[Construct](/schematic-approach/foundation/Constructs)**: A probabilistic structure that allows experiences or perceptions to be matched, compared, and organized.
 
+## Appendix
+### Construct Math
 
+As constructs are patterns to be matched, an interesting phenomenon occurs with them: constructs that feel like AND can end up functioning as OR.
+
+For example, if we had a construct "something round" and "something used for play", and then we have a construct ball, which is something round and used for play. We would think that this would be a Venn diagram of things that were round and used for play. But because a construct is not binary, we get things that pull into "ball" that did not meet the threshold for those on their own. For example, a football is not something round, but it does round-like things when in the context of play, so it gets to be a ball. While a bat does not, so while it is used for play, it does not become a ball.
