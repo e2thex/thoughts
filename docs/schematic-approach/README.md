@@ -2,9 +2,7 @@
 
 The schematic approach is a way to evaluate philosophy, in which one starts with how the brain functions and then evaluates the mysteries of philosophy in that context. 
 
-This document is an exploration of consciousness, cognition, and reality, starting with an understanding of how the brain operates.  always returning to how the brain operates in a probabilistic and abstract manner. 
-
-Here we will explore the nature of consciousness, cognition, and reality, always starting with an understanding of how the brain operates.
+This document is an exploration of consciousness, cognition, and reality, starting with an understanding of how the brain operates.  Always returns to how the brain operates in a probabilistic and abstract manner. 
 ## Overview
 
 In the Schematic approach, a foundational point is that our experience is not the world directly, but instead an abstract probabilistic simulator of this world.  The abstractions (we will call them motifs) are not definitional, but instead are patterns that match to different degrees.
