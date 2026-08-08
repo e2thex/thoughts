@@ -1,26 +1,33 @@
 # The Schematic Approach
 
-This document is an exploration of consciousness, cognition, and reality, starting with an understanding of how the brain operates.  always coming back to how the brain operates in a probabilistic and abstracted manner. 
+The schematic approach is a way to evaluate philosophy, in which one starts with how the brain functions and then evaluates the mysteries of philosophy in that context. 
 
+Here we will explore the nature of consciousness, cognition, and reality, always starting with an understanding of how the brain operates.
 ## Overview
 
-The Schematic approach is to start from the premise that we experience the world not directly, but instead we experience an abstract probabilistic simulator of this world.  This also means abstractions we construct (constructs) are not definitions, but instead are patterns that match to different degrees.
+In the Schematic approach, a foundational point is that our experience is not the world directly, but instead an abstract probabilistic simulator of this world.  The abstractions (we will call them motifs) are not definitional, but instead are patterns that match to different degrees.
 
 This allows for some central insights:
 * What we call **consciousness** is actually our **reality schema**—the brain's amalgamated simulation engine that creates our personal reality ($R_p$) from the raw data of objective reality ($R_0$).
 * Each LLM model is a consciousness.
-* Truth is a construct, where we match how much something matches our personal reality 
-* Free will is a construct where we match past or future action against the other probable actions. If there we other probable actions, we felt it as free will. 
+* Truth is a motif, whose field is strongest when something matches our personal reality.
+* Free will is a motif whose field is strongest for past or future actions where there were other probable actions.  
 
 We will start by exploring the foundation that we will return to time and again. 
+
 ## Foundation
+
+
 ### Schemas
 
-While schema might be one of the most overloaded words in the English language, I find it too useful to not add to the pile, but so as to add clarity, I will start with what I mean when I use this word with a definition, 
+While schema might be one of the most overloaded words in the English language, I find it too useful to not add to the pile, but to add clarity, I will start with what I mean when I use this word with a definition, 
 
 A **schema** is best defined as a **trained abstract probabilistic simulator**.
 
-It is a **simulator**, in that it can generate multiple possible paths or outcomes, not just a single prediction, but a dynamic engine capable of exploring different scenarios. It is **abstract** in that it strips away unnecessary details, constructing representations of the essential features needed for its purpose. It is **probabilistic** in that it uses heuristics to fill in the gaps, estimating likelihoods rather than certainties. And it is **trained** through experience and feedback, becoming more efficient at generating useful simulations over time.
+* It is a **simulator**, in that it can generate multiple possible paths or outcomes, not just a single prediction, but a dynamic engine capable of exploring different scenarios. 
+* It is **abstract** in that it strips away unnecessary details, constructing representations of the essential features needed for its purpose. 
+* It is **probabilistic** in that it uses heuristics to fill in the gaps, estimating likelihoods rather than certainties. 
+* And it is **trained** through experience and feedback, becoming more efficient at generating useful simulations over time.
 
 Schemas dramatically reduce the brain's computational and memory requirements by eliminating the need to process all sensory inputs in detail. Instead of evaluating every piece of information, schemas allow the brain to quickly react based on simplified patterns and minimal inputs. They act as efficient mental shortcuts, letting us respond rapidly without having to analyze the full complexity of a situation.
 
@@ -35,7 +42,6 @@ The **body schema** is a simulation of the body's shape, position, and capabilit
 - **Trained** through infancy and constantly refined through movement and sensory feedback  
 - **Abstract** across different body positions, lighting conditions, or tool use  
 - **Probabilistic** in its prediction of where the body should be
-
 ##### Attention Schema
 
 The **attention schema** is a model of how attention is allocated, both one's own and others'. This schema allows us to anticipate what will be noticed or focused on.
@@ -43,7 +49,6 @@ The **attention schema** is a model of how attention is allocated, both one's ow
 - **Trained** through social and perceptual experience  
 - **Abstract** across sensory modalities  
 - **Probabilistic** in determining what is likely to be noticed
-
 ##### Theory of Mind Schema
 
 This schema simulates the mental states of others, including what they know, believe, want, or intend.
@@ -74,27 +79,40 @@ The reality schema is **not the world itself**. It is the internal simulation th
 
 So while there may exist a reality that is not our perception, a $R_0$ (reality nought), if you will, all of us have our own reality, which we will call $R_p$ (personal reality).
 
-### Constructs
+### Motifs
 
-Part of the pattern of [Schemas](/schematic-approach/foundation/Schemas) is that they create representations of $R_0$ (reality nought) through the [reality schema](/schematic-approach/foundation/Reality-schema). These we call **Constructs**.
+Part of the pattern of schemas is that they create representations of R_0 (reality nought) through the reality schema. These we call **Motifs**.
 
-A **Construct** is not a definition but a pattern. It is a probabilistic structure that allows experiences or perceptions to be matched, compared, and organized. A construct is not a fixed category ("what red is") but a dynamic field of resemblance ("what is red-like"). In this sense, constructs are operational patterns, not propositional truths; they are the ways a reality holds its world together through degrees of similarity.
+A motif is not a definition but a pattern. Each motif has a **motif field**: a function that, given an experience, returns a **motif strength** — how strongly that experience matches the pattern. A motif is not a fixed category ("what red is") but a resemblance gradient ("what is red-like"). In this sense, motifs are patterns, not propositional truths.
+
+This is how our brains store information about the world in these patterns. You can see the impossibility of our brains storing binary categories by watching how quickly words and concepts expand to cover other experiences, even if they have "definitions" that we have written down.
+
+Motifs are trained per reality, so a motif field is always some particular reality's field. Syncing is the process by which two realities come to return similar strengths for the same experience.
 
 #### An Example: Red
 
-To see how a construct works, consider the experience of color, specifically, the construct _red_. If I show a group of people this box:
+To see how a motif works, consider the experience of color, specifically, the motif _red_. If I show a group of people this box:
 <div style="background-color:#E75480 ; color:#E75480; border: 2px solid black; padding: 10px; margin: 10px auto;width:100px; border-radius: 5px;"> This is a pink box. </div>
-If I ask, "Is this red?" the group will likely be divided. If I ask instead, "Is this red or green?" nearly everyone will choose red. And if I ask, "Is this red or pink?" most will choose pink.  
-The boundaries of the answer shift depending on the comparison.
 
-What this reveals is that red does not have a definition but instead a probabilistic region of coherence. Each reality has learned, through its own training and syncing, what falls inside the "red-like" pattern. Recognition happens when an experience fits closely enough to that pattern, not when it satisfies a rule.
+If I ask, "Is this red?" the group will likely be divided. If I ask instead, "Is this red or green?" nearly everyone will choose red. And if I ask, "Is this red or pink?" most will choose pink. The boundaries of the answer shift depending on the comparison.
 
-A construct, then, is not a statement about the world but a way of organizing it. It is how a reality compresses the continuous field of experience into usable units. When we say something is red, what we really mean is that it sits near the center of a pattern that our reality has found stable and meaningful.
+What this reveals is that red does not have a definition. The red field returns a moderate strength at the pink box, and that strength does not change between the three questions. What changes is what it is being compared against. Against green, moderate wins. Against pink, it does not. Recognition is a contest between fields, not a test against a rule.
+
+When we say something is red, what we mean is that its red strength is high, and higher than that of the motifs it is competing with.
 
 #### An Example: Sad
 
 Sad is another construct; it abstracts the complexity of our bodies. This pattern is also something we can match against other people/animals.
 
+#### Construct Math
+
+As constructs are patterns to be matched, an interesting thing that happens with them is that constructs that feel like AND can end up functioning as OR.
+
+For example, if we had a construct "something round" and "something used for play", and then we have a construct ball, which is something round and used for play. One would expect that this would be a Venn diagram of things that were round and used for play. But because a construct is not binary, we get things that pull into ball that did not meet the threshold for those on their own. For example, a football is not something round, but it does round-like things when in the context of play, so it gets to be a ball. While a bat does not, so while it is used for play, it does not become a ball.
+
+### Let's get meta
+
+We have defined Construct, but as we have discussed our brain does not store definitions, so have we not really storied something like Contruct-like?
 ## On Consciousness
 
 ### The Nature and Unit of Consciousness
@@ -191,13 +209,6 @@ Training does tend to create a reality that is more specific and more consistent
 ### Closer to Reality 
 
 As each consciousness sees things differently from the previous consciousness, there is a tendency to feel that we have gotten closer to some ultimate truth.  It is tempting to see $R_0$ as the arbiter of this ultimate truth, that as we train $R_p$, it becomes a more accurate representation of $R_o$.  But how can one abstraction be more correct than another? If we were to look at an inkblot every day for a year, would we say that what we saw in it on the 365th day is more correct than the first? 
-
-### Construct Math
-
-As constructs are patterns to be matched, an interesting thing that happens with them is that constructs that feel like AND can end up functioning as OR.
-
-For example if we had a construct "something round" and "something used for play", and then we have a construct ball, which is something round and used for play. We would think that this would be a Venn diagram of things that were round and used for play. But because a construct is not binary we get things that pull into ball that did not meet the threshold for those on their own. For example, a football is not something round, but it does round-like things when in the context of play, so it gets to be a ball. While a bat does not, so while it is used for play, it does not become a ball.
-
 
 ## On Free Will
 

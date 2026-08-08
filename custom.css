@@ -1,8 +1,10 @@
-@media print {
-  /* Hide sidebar and navigation elements */
+
   h2 {
     page-break-before: always
   }
+
+@media print {
+  /* Hide sidebar and navigation elements */
   .sidebar,
   .sidebar-toggle,
   .sidebar-close,
