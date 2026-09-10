@@ -1,36 +1,32 @@
 # The Schematic Approach
 
-The schematic approach is a way to evaluate philosophy, in which one starts with how the brain functions and then evaluates the mysteries of philosophy in that context. 
-
-This document is an exploration of consciousness, cognition, and reality, starting with an understanding of how the brain operates.  Always returns to how the brain operates in a probabilistic and abstract manner. 
 ## Overview
 
-In the Schematic approach, a foundational point is that our experience is not the world directly, but instead an abstract probabilistic simulator of this world.  The abstractions (we will call them motifs) are not definitional, but instead are patterns that match to different degrees.
+The schematic approach is a way to evaluate philosophy, in which one starts with how the brain functions and then evaluates the mysteries of philosophy in that context. 
 
-This allows for some central insights:
+A foundational point of this approach is that one does not experience the world, but instead an abstract probabilistic simulator of this world.  The abstractions (we will call them motifs) are not definitional, but instead are patterns that match to different degrees.
+
+The following insights then follow:
 * What we call **consciousness** is actually our **reality schema**—the brain's amalgamated simulation engine that creates our personal reality ($R_p$) from the raw data of objective reality ($R_0$).
 * Each LLM model is a consciousness.
 * Truth is a motif, whose field is strongest when something matches our personal reality.
 * Free will is a motif whose field is strongest for past or future actions where there were other probable actions.  
 
 We will start by exploring the foundation that we will return to time and again. 
-
 ## Foundation
-
 
 ### Schemas
 
-While schema might be one of the most overloaded words in the English language, I find it too useful to not add to the pile, but to add clarity, I will start with what I mean when I use this word with a definition, 
+While schema might be one of the most overloaded words in the English language, I find it too useful to not add to the pile; but to add clarity, I will start with what I mean when I use this word with a definition, 
 
 A **schema** is best defined as a **trained abstract probabilistic simulator**.
 
-* It is a **simulator**, in that it can generate multiple possible paths or outcomes, not just a single prediction, but a dynamic engine capable of exploring different scenarios. 
+* It is a **simulator** in that it can generate multiple possible paths or outcomes, not just a single prediction, but a dynamic engine capable of exploring different scenarios. 
 * It is **abstract** in that it strips away unnecessary details, constructing representations of the essential features needed for its purpose. 
 * It is **probabilistic** in that it uses heuristics to fill in the gaps, estimating likelihoods rather than certainties. 
-* And it is **trained** through experience and feedback, becoming more efficient at generating useful simulations over time.
+* And it is **trained** through experience and feedback, which changes the encoding of a previous schema.
 
-Schemas dramatically reduce the brain's computational and memory requirements by eliminating the need to process all sensory inputs in detail. Instead of evaluating every piece of information, schemas allow the brain to quickly react based on simplified patterns and minimal inputs. They act as efficient mental shortcuts, letting us respond rapidly without having to analyze the full complexity of a situation.
-
+~~Schemas dramatically reduce the brain's computational and memory requirements by eliminating the need to process all sensory inputs in detail. Instead of evaluating every piece of information, schemas allow the brain to quickly react based on simplified patterns and minimal inputs. They act as efficient mental shortcuts, letting us respond rapidly without having to analyze the full complexity of a situation. ~~
 #### Examples of Schemas
 
 Several schemas are widely hypothesized in neuroscience and cognitive science. Each reflects this definition. They are trained, abstract, probabilistic simulators built through development and refined by experience.
@@ -102,17 +98,14 @@ When we say something is red, what we mean is that its red strength is high, and
 
 #### An Example: Sad
 
-Sad is another construct; it abstracts the complexity of our bodies. This pattern is also something we can match against other people/animals.
+Sad is another motif; it abstracts the complexity of our bodies. This pattern is also something we can match against other people/animals.
 
-#### Construct Math
+#### Motif Math
 
-As constructs are patterns to be matched, an interesting thing that happens with them is that constructs that feel like AND can end up functioning as OR.
+As motifs are patterns to be matched, an interesting thing that happens with them is that motifs that feel like AND can end up functioning as OR.
 
-For example, if we had a construct "something round" and "something used for play", and then we have a construct ball, which is something round and used for play. One would expect that this would be a Venn diagram of things that were round and used for play. But because a construct is not binary, we get things that pull into ball that did not meet the threshold for those on their own. For example, a football is not something round, but it does round-like things when in the context of play, so it gets to be a ball. While a bat does not, so while it is used for play, it does not become a ball.
+For example, if we had motifs "something round" and "something used for play," and then a motif _ball_, which is something round and used for play. One would expect a Venn diagram of things that were round and used for play. But _ball_ is not computed from its parts — it has its own field, trained on the joint pattern. A football has only moderate round strength, but it does round-like things in the context of play, and the ball field was trained on cases like it, so its ball strength is high. A bat has high play strength and near-zero round strength, and was never trained into ball, so its ball strength stays low.cla
 
-### Let's get meta
-
-We have defined Construct, but as we have discussed our brain does not store definitions, so have we not really storied something like Contruct-like?
 ## On Consciousness
 
 ### The Nature and Unit of Consciousness
@@ -194,11 +187,11 @@ I think we can safely say that LLM models are unique consciousnesses. They share
 
 ## On Epistemology
 
-Epistemology asks, What does it mean to know? At the root of that question are the things that are known. Across history, these have been called _Forms_, _Ideas_, _Concepts_, or _Representations_, all attempts to name the stable features of knowing. In the **Schematic Approach**, we see this in the [constructs bob](#Constructs) created by our brain.
+Epistemology asks, What does it mean to know? At the root of that question are the things that are known. Across history, these have been called _Forms_, _Ideas_, _Concepts_, or _Representations_, all attempts to name the stable features of knowing. In the **Schematic Approach**, we see this in the motif created by our brain.
 
-### The Construct "Truth"
+### The Motif "Truth"
 
-How do we view truth in the Schematic Approach? To start, truth is a construct, so what we are looking for is what is truth-like. How well something reflects our personal reality ([$R_p$](#On-Consciousness)) creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
+How do we view truth in the Schematic Approach? To start, truth is a motif, so what we are looking for is what is truth-like. How well something reflects our personal reality ([$R_p$](#On-Consciousness)) creates a good anchor. To be clear, this is not how it reflects $R_0$, but the reality that each of us exists in.
 
 While this truth is relatively fixed, each change of our [Consciousness](#on-consciousness), after each retraining of our previous consciousness, provides a new reality and therefore possibly a new truth.
 
@@ -300,11 +293,11 @@ This model helps explain why the debate over free will has persisted for so long
 - **[$R_0$](#The Reality Schema)**: The objective reality that exists independently of perception. Not abstract, all-seeing, all-knowing.
 - **[$R_p$](/schematic-approach/foundation/Reality-schema)** (Personal Reality): Each individual's reality schema—their personal simulation of the world.
 - **[Schema](/schematic-approach/foundation/Schemas)**: A trained abstract probabilistic simulator used by the brain.
-- **[Construct](/schematic-approach/foundation/Constructs)**: A probabilistic structure that allows experiences or perceptions to be matched, compared, and organized.
+- **[Motif]: A probabilistic structure that allows experiences or perceptions to be matched, compared, and organized.
 
 ## Appendix
-### Construct Math
+### Motif Math
 
-As constructs are patterns to be matched, an interesting phenomenon occurs with them: constructs that feel like AND can end up functioning as OR.
+As motifs are patterns to be matched, an interesting phenomenon occurs with them: motifs that feel like AND can end up functioning as OR.
 
-For example, if we had a construct "something round" and "something used for play", and then we have a construct ball, which is something round and used for play. We would think that this would be a Venn diagram of things that were round and used for play. But because a construct is not binary, we get things that pull into "ball" that did not meet the threshold for those on their own. For example, a football is not something round, but it does round-like things when in the context of play, so it gets to be a ball. While a bat does not, so while it is used for play, it does not become a ball.
+For example, if we had a motif "something round" and "something used for play", and then we have a motif ball, which is something round and used for play. We would think that this would be a Venn diagram of things that were round and used for play. But because a motif is not binary, we get things that pull into "ball" that did not meet the threshold for those on their own. For example, a football is not something round, but it does round-like things when in the context of play, so it gets to be a ball. While a bat does not, so while it is used for play, it does not become a ball.

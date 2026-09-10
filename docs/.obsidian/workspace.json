@@ -25,14 +25,13 @@
             "id": "83d32cea05e465b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "schematic-approach/README.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-table",
+              "title": "Untitled 1"
             }
           }
         ],
@@ -195,15 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e794110ed4dd48a6",
+  "active": "83d32cea05e465b6",
   "lastOpenFiles": [
-    "schematic-approach/README.md",
-    "conflict-files-obsidian-git.md",
     "schematic-approach/On_Reality_Nought.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "smallvslargechangecurve.svg",
+    "README.md",
+    "InProgress/Small Changes Go Fast.md",
+    "change curve.svg",
+    "Gates of Technology.md",
+    "schematic-approach/README.md",
+    "schematic-approach/foundation/Schemas.md",
+    "conflict-files-obsidian-git.md",
     "On Consciousness.md",
     "schematic-approach/On_Ethics.md",
     "schematic-approach/Determinism_Indistinguishable_from_Randomness.md",
-    "schematic-approach/foundation/Schemas.md",
     "schematic-approach/foundation",
     "schematic-approach/schematic_approach.epub",
     "schematic-approach/book.epub",
@@ -218,15 +224,11 @@
     "schematic-approach/free-will.md",
     "schematic-approach/On Free Will.md",
     "schematic-approach/foundation/Constructs.md",
-    "README.md",
     "schematic-approach/foundation/README.md",
     "schematic-approach/Ethics.md",
-    "Untitled 1.base",
     "schematic-approach/Epistemology.md",
     "schematic-approach/Consciousness.md",
     "The Schematic Approach.md",
-    "schematic-approach",
-    "Untitled.base",
-    "Gates of Technology.md"
+    "schematic-approach"
   ]
 }
